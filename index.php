@@ -60,7 +60,7 @@
                                                                      </div>
                                                                      <div class="elementor-element elementor-element-7d1c4a3d elementor-widget elementor-widget-heading" data-id="7d1c4a3d" data-element_type="widget" data-widget_type="heading.default">
                                                                         <div class="elementor-widget-container">
-                                                                           <h2 class="elementor-heading-title elementor-size-default">We're an agency.</h2>
+                                                                           <h2 class="elementor-heading-title elementor-size-default">We are</h2>
                                                                         </div>
                                                                      </div>
                                                                      <div class="elementor-element elementor-element-10b6ad40 elementor-widget elementor-widget-pr-button" data-id="10b6ad40" data-element_type="widget" data-widget_type="pr-button.default">

@@ -13,7 +13,7 @@
                                              <div class="elementor-element elementor-element-523c7d3 elementor-widget elementor-widget-heading" data-id="523c7d3" data-element_type="widget" data-widget_type="heading.default">
                                                 <div class="elementor-widget-container">
 <!--                                                   <h2 class="elementor-heading-title elementor-size-default"><a href="#">DEMO.</a></h2>-->
-                                                   <a href="#"><img src="images/logo1.png" /></a>
+                                                   <a href="#"><img src="images/header_logo.png" /></a>
                                                 </div>
                                              </div>
                                           </div>
@@ -63,7 +63,7 @@
                                           <div class="elementor-element elementor-element-523c7d3 elementor-widget elementor-widget-heading" data-id="523c7d3" data-element_type="widget" data-widget_type="heading.default">
                                              <div class="elementor-widget-container">
 <!--                                                <h2 class="elementor-heading-title elementor-size-default"><a href="#">DEMO.</a></h2>-->
-                                                <a href="#"><img src="images/logo1.png" /></a>
+                                                <a href="#"><img src="images/logo_header1.png" /></a>
                                              </div>
                                           </div>
                                        </div>
@@ -110,7 +110,7 @@
                         <div class="header-wrap">
                            <div class="branding">
                               <div class="mobile-logo">
-                                  <a href="#"><img src="images/logo1.png" /></a>
+                                  <a href="#"><img src="images/header_logo.png" /></a>
 <!--
                                  <h1 class="site-title"><a href="#"
                                     rel="home">DEMO</a></h1>

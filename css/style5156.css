@@ -181,6 +181,11 @@ input[type="search"] {
 	-moz-box-sizing: content-box;
 	box-sizing: content-box;
 }
+
+.fa-service{
+	margin-right: 10px;
+}
+
 .search .search-submit {
 	padding: 10px 15px;
 	-webkit-border-radius: 2px;
@@ -653,6 +658,30 @@ blockquote>footer:before {
 	display: none;
 }
 
+
+
+/* custom css */
+
+.play-btn{
+	margin-left: 20px;
+}
+
+.banner-pointer{
+	cursor: pointer;
+}
+
+.modal-body {
+	padding: 0 !important;	
+}
+
+.modal-content{
+	background-color: unset !important;
+}
+
+
+
+/* custom css */
+
 /* must have higher specificity than alternative color schemes inline styles */
 
 .site .skip-link {
@@ -843,6 +872,10 @@ body, button, input[type="button"], input[type="submit"], textarea {
 @media(max-width:600px){
 	#mobile-header.uk-sticky.uk-active.uk-sticky-fixed  {
 		top:0 !important;
+	}
+	.play-btn{
+		margin-left: 0px;
+		margin-top: 10px;
 	}
 }
 .header-wrap {

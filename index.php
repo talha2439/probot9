@@ -9,6 +9,11 @@
       <link rel='stylesheet' id='pr-style-css'  href='css/pr-style.css' type='text/css' media='all' /> 
       <link rel='stylesheet' id='pixe-main-style-css'  href='css/style5156.css' type='text/css' media='all' />
       <link rel='stylesheet' id='elementor-post-326-css'  href='css/post-326e189.css' type='text/css' media='all' />
+      <link rel='stylesheet' id='elementor-post-326-css'  href='https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css' type='text/css' media='all' />
+      
+
+      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css"> 
+      
        
       <script type='text/javascript' src='js/jquery4a5f.js' id='jquery-js'></script>  
        
@@ -25,7 +30,7 @@
       <!-- Preloader End -->
       <div id="site-wrapper" class="site wide">
          <?php include('widgets/header.php'); ?>
-        
+          
          <div id="content" class="site-content">
             <div id="primary" class="page-builder-template">
                <div class="page-builder-row">
@@ -68,6 +73,9 @@
                                                                            <div class="pr-button-container">
                                                                               <a class="pr-button  pr-button-lg pr-button-style1-right" data-uk-toggle="target: #pr-modal-section-74cfe66">
                                                                                  <div class="pr-button-text-icon-wrapper"><span >Getting Started</span></div>
+                                                                              </a>
+                                                                              <a class="pr-button  pr-button-lg pr-button-style1-right play-btn" id="play-video" data-toggle="modal" data-target="#myModal">
+                                                                                 <div class="pr-button-text-icon-wrapper"><span >Click To Play</span></div>
                                                                               </a>
                                                                            </div>
                                                                         </div>
@@ -225,9 +233,9 @@
                                                                            <div id="pr-service-box-7bfa72d0" class="pr-service-box-item">
                                                                               <div class="pr-service-box-inner">
                                                                                  <div class="pr-service-box-icon-wrap">
-                                                                                    <i class="icon icon-strategy"></i>
+                                                                                    <i class="fa fa-pencil-square"></i>
                                                                                  </div>
-                                                                                 <h5 class="title">Website designing</h5>
+                                                                                 <h5 class="title"><i class="fa fa-pencil-square fa-service"></i>Website designing</h5>
                                                                                  <i class="icon icon-arrow-right"></i>
                                                                               </div>
                                                                            </div>
@@ -244,9 +252,9 @@
                                                                            <div id="pr-service-box-1c81f4e0" class="pr-service-box-item">
                                                                               <div class="pr-service-box-inner">
                                                                                  <div class="pr-service-box-icon-wrap">
-                                                                                    <i class="icon icon-browser"></i>
+                                                                                    <i class="fa fa-laptop"></i>
                                                                                  </div>
-                                                                                 <h5 class="title">Web apps</h5>
+                                                                                 <h5 class="title"><i class="fa fa-laptop fa-service"></i>Web apps</h5>
                                                                                  <i class="icon icon-arrow-right"></i>
                                                                               </div>
                                                                            </div>
@@ -263,9 +271,9 @@
                                                                            <div id="pr-service-box-5dfb95fe" class="pr-service-box-item">
                                                                               <div class="pr-service-box-inner">
                                                                                  <div class="pr-service-box-icon-wrap">
-                                                                                    <i class="icon icon-presentation"></i>
+                                                                                    <i class="fa fa-mobile"></i>
                                                                                  </div>
-                                                                                 <h5 class="title">Mobile apps</h5>
+                                                                                 <h5 class="title"><i class="fa fa-mobile fa-service"></i>Mobile apps</h5>
                                                                                  <i class="icon icon-arrow-right"></i>
                                                                               </div>
                                                                            </div>
@@ -282,9 +290,9 @@
                                                                            <div id="pr-service-box-311b3c5" class="pr-service-box-item">
                                                                               <div class="pr-service-box-inner">
                                                                                  <div class="pr-service-box-icon-wrap">
-                                                                                    <i class="icon icon-clipboard2"></i>
+                                                                                    <i class="fa fa-cart-plus"></i>
                                                                                  </div>
-                                                                                 <h5 class="title">Ecommerce solutions</h5>
+                                                                                 <h5 class="title"><i class="fa fa-cart-plus fa-service"></i>Ecommerce solutions</h5>
                                                                                  <i class="icon icon-arrow-right"></i>
                                                                               </div>
                                                                            </div>
@@ -301,9 +309,9 @@
                                                                            <div id="pr-service-box-145e4437" class="pr-service-box-item">
                                                                               <div class="pr-service-box-inner">
                                                                                  <div class="pr-service-box-icon-wrap">
-                                                                                    <i class="icon icon-tools"></i>
+                                                                                    <i class="fa fa-line-chart"></i>
                                                                                  </div>
-                                                                                 <h5 class="title">Digital media marketing</h5>
+                                                                                 <h5 class="title"><i class="fa fa-line-chart fa-service"></i>Digital media marketing</h5>
                                                                                  <i class="icon icon-arrow-right"></i>
                                                                               </div>
                                                                            </div>
@@ -320,9 +328,9 @@
                                                                            <div id="pr-service-box-57fd16b2" class="pr-service-box-item">
                                                                               <div class="pr-service-box-inner">
                                                                                  <div class="pr-service-box-icon-wrap">
-                                                                                    <i class="icon icon-chat"></i>
+                                                                                    <i class="fa fa-paint-brush"></i>
                                                                                  </div>
-                                                                                 <h5 class="title">Logo designing</h5>
+                                                                                 <h5 class="title"><i class="fa fa-paint-brush  fa-service"></i>Logo designing</h5>
                                                                                  <i class="icon icon-arrow-right"></i>
                                                                               </div>
                                                                            </div>
@@ -339,9 +347,9 @@
                                                                            <div id="pr-service-box-3645a18b" class="pr-service-box-item">
                                                                               <div class="pr-service-box-inner">
                                                                                  <div class="pr-service-box-icon-wrap">
-                                                                                    <i class="icon icon-target"></i>
+                                                                                    <i class="fa fa-pied-piper"></i>
                                                                                  </div>
-                                                                                 <h5 class="title">Graphic designing</h5>
+                                                                                 <h5 class="title"><i class="fa fa-pied-piper  fa-service"></i>Graphic designing</h5>
                                                                                  <i class="icon icon-arrow-right"></i>
                                                                               </div>
                                                                            </div>
@@ -358,9 +366,9 @@
                                                                            <div id="pr-service-box-3cc5fd18" class="pr-service-box-item">
                                                                               <div class="pr-service-box-inner">
                                                                                  <div class="pr-service-box-icon-wrap">
-                                                                                    <i class="icon icon-lightbulb"></i>
+                                                                                    <i class="fa fa-circle-o-notch"></i>
                                                                                  </div>
-                                                                                 <h5 class="title">2d animations</h5>
+                                                                                 <h5 class="title"><i class="fa fa-circle-o-notch  fa-service"></i>2d / 3d animations</h5>
                                                                                  <i class="icon icon-arrow-right"></i>
                                                                               </div>
                                                                            </div>
@@ -368,7 +376,7 @@
                                                                      </div>
                                                                   </div>
                                                                </div>
-                                                            </div>
+                                                            </div> 
                                                             <div class="elementor-element elementor-element-c3c5ad5 elementor-column elementor-col-11 elementor-inner-column" data-id="c3c5ad5" data-element_type="column">
                                                                <div class="elementor-column-wrap  elementor-element-populated">
                                                                   <div class="elementor-widget-wrap">
@@ -377,28 +385,9 @@
                                                                            <div id="pr-service-box-51632671" class="pr-service-box-item">
                                                                               <div class="pr-service-box-inner">
                                                                                  <div class="pr-service-box-icon-wrap">
-                                                                                    <i class="icon icon-search2"></i>
+                                                                                    <i class="fa fa-video-camera"></i>
                                                                                  </div>
-                                                                                 <h5 class="title">3d modelling & animation</h5>
-                                                                                 <i class="icon icon-arrow-right"></i>
-                                                                              </div>
-                                                                           </div>
-                                                                        </div>
-                                                                     </div>
-                                                                  </div>
-                                                               </div>
-                                                            </div>
-                                                            <div class="elementor-element elementor-element-c3c5ad5 elementor-column elementor-col-11 elementor-inner-column" data-id="c3c5ad5" data-element_type="column">
-                                                               <div class="elementor-column-wrap  elementor-element-populated">
-                                                                  <div class="elementor-widget-wrap">
-                                                                     <div class="elementor-element elementor-element-51632671 elementor-widget elementor-widget-pr-services" data-id="51632671" data-element_type="widget" data-widget_type="pr-services.default">
-                                                                        <div class="elementor-widget-container">
-                                                                           <div id="pr-service-box-51632671" class="pr-service-box-item">
-                                                                              <div class="pr-service-box-inner">
-                                                                                 <div class="pr-service-box-icon-wrap">
-                                                                                    <i class="icon icon-search2"></i>
-                                                                                 </div>
-                                                                                 <h5 class="title">Video production</h5>
+                                                                                 <h5 class="title"><i class="fa fa-video-camera  fa-service"></i>Video production</h5>
                                                                                  <i class="icon icon-arrow-right"></i>
                                                                               </div>
                                                                            </div>
@@ -1053,6 +1042,24 @@
          
          <?php include('widgets/footer.php')?>
 
+         <!-- <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">Open Modal</button> -->
+
+         <!-- Modal -->
+         <div class="modal fade" id="myModal" role="dialog">
+            <div class="modal-dialog">
+            
+               <!-- Modal content-->
+               <div class="modal-content"> 
+                  <div class="modal-body" id="yt-player">
+                     
+                     <iframe id="video" width="600" height="315" src="https://www.youtube.com/embed/jWa-mna5J6A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+                  </div> 
+               </div>
+               
+            </div>
+         </div>
+
       </div>
       <link rel='stylesheet' id='elementor-post-37-css'  href='css/post-376e0b.css' type='text/css' media='all' />
       <link rel='stylesheet' id='elementor-post-104-css'  href='css/post-1046e0b.css' type='text/css' media='all' />
@@ -1071,5 +1078,29 @@
          var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","downloadImage":"Download image"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":640,"lg":960,"xl":1440,"xxl":1600},"version":"2.9.14","urls":{"assets":""},"settings":{"page":[],"general":{"elementor_global_image_lightbox":"yes","elementor_lightbox_enable_counter":"yes","elementor_lightbox_enable_fullscreen":"yes","elementor_lightbox_enable_zoom":"yes","elementor_lightbox_enable_share":"yes","elementor_lightbox_title_src":"title","elementor_lightbox_description_src":"description"},"editorPreferences":[]},"post":{"id":326,"title":"home","excerpt":"","featuredImage":false}};
       </script>
       <script type='text/javascript' src='js/frontend.min7c53.js' id='elementor-frontend-js'></script>
+      <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+      
+      <script>
+
+            // Note the "$" inside function() - that's the key
+            jQuery( document ).ready(function( $ ) {
+               $("#myModal").on('hidden.bs.modal', function (e) {
+                  $("#myModal iframe").attr("src", $("#myModal iframe").attr("src"));
+               });
+
+                  
+            document.getElementById('video').addEventListener('ended',myHandler,false);
+            function myHandler(e) {
+               alert();
+            }
+            //    $('#myModal').on('hidden.bs.modal', function () {
+            //    callPlayer('yt-player', 'stopVideo');
+            // });
+
+            }); 
+
+
+      </script>
+      
    </body>
 </html>

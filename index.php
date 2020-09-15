@@ -48,7 +48,7 @@
       <div class="row">
          <div class="aligning">
             <img class="img-responsive" src="images/logo_banner.png">
-            <h2 > Comming Soon </h2>
+            <h2 > Comming Soon Now</h2>
          </div>
       </div>
    </div>

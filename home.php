@@ -45,55 +45,27 @@
                                        <div class="elementor-row">
                                           <div class="elementor-element elementor-element-706d2f8 elementor-column elementor-col-100 elementor-top-column" data-id="706d2f8" data-element_type="column">
                                              <div class="elementor-column-wrap  elementor-element-populated">
-                                                <div class="elementor-widget-wrap">
+                                                <div class="elementor-widget-wrap"> 
                                                    <section class="elementor-element elementor-element-5e488ad9 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="5e488ad9" data-element_type="section">
-                                                      <div class="elementor-container elementor-column-gap-default">
-                                                         <div class="elementor-row">
-                                                            <div class="elementor-element elementor-element-2b85c19e elementor-column elementor-col-50 elementor-inner-column" data-id="2b85c19e" data-element_type="column">
-                                                               <div class="elementor-column-wrap  elementor-element-populated">
-                                                                  <div class="elementor-widget-wrap">
-                                                                     <div class="elementor-element elementor-element-ce962d3 elementor-widget elementor-widget-divider" data-id="ce962d3" data-element_type="widget" data-widget_type="divider.default">
-                                                                        <div class="elementor-widget-container">
-                                                                           <div class="elementor-divider">
-                                                                              <span class="elementor-divider-separator">
-                                                                              </span>
-                                                                           </div>
-                                                                        </div>
-                                                                     </div>
-                                                                     <div class="elementor-element elementor-element-2b4bf6bc elementor-widget elementor-widget-html" data-id="2b4bf6bc" data-element_type="widget" data-widget_type="html.default">
-                                                                        <div class="elementor-widget-container"> 
-                                                                        </div>
-                                                                     </div>
-                                                                     <div class="elementor-element elementor-element-7d1c4a3d elementor-widget elementor-widget-heading" data-id="7d1c4a3d" data-element_type="widget" data-widget_type="heading.default">
-                                                                        <div class="elementor-widget-container">
-                                                                           <h2 class="elementor-heading-title elementor-size-default">We are</h2>
-                                                                        </div>
-                                                                     </div>
-                                                                     <div class="elementor-element elementor-element-10b6ad40 elementor-widget elementor-widget-pr-button" data-id="10b6ad40" data-element_type="widget" data-widget_type="pr-button.default">
-                                                                        <div class="elementor-widget-container">
-                                                                           <div class="pr-button-container">
-                                                                              <a class="pr-button  pr-button-lg pr-button-style1-right" data-uk-toggle="target: #pr-modal-section-74cfe66">
-                                                                                 <div class="pr-button-text-icon-wrapper"><span >Getting Started</span></div>
-                                                                              </a>
-                                                                              <a class="pr-button  pr-button-lg pr-button-style1-right play-btn" id="play-video" data-toggle="modal" data-target="#myModal">
-                                                                                 <div class="pr-button-text-icon-wrapper"><span >Click To Play</span></div>
-                                                                              </a>
-                                                                           </div>
-                                                                        </div>
-                                                                     </div>
+                                                            <div class="elementor-element elementor-element-ce962d3 elementor-widget elementor-widget-divider" data-id="ce962d3" data-element_type="widget" data-widget_type="divider.default">
+                                                               <div class="elementor-widget-container">
+                                                                  <div class="elementor-divider">
+                                                                     <span class="elementor-divider-separator">
+                                                                     </span>
                                                                   </div>
                                                                </div>
-                                                            </div>
-                                                            <div class="elementor-element elementor-element-7f7cbff elementor-column elementor-col-50 elementor-inner-column" data-id="7f7cbff" data-element_type="column">
-                                                               <div class="elementor-column-wrap">
-                                                                  <div class="elementor-widget-wrap">
-                                                                  </div>
+                                                            </div> 
+                                                            <div class="elementor-element elementor-element-7d1c4a3d elementor-widget elementor-widget-heading" data-id="7d1c4a3d" data-element_type="widget" data-widget_type="heading.default">
+                                                               <div class="elementor-widget-container">
+                                                                  <div class="banner-div">
+                                                                     <h2 class="elementor-heading-title elementor-size-default">We are</h2> 
+                                                                     <img data-toggle="modal" data-target="#myModal" src="images/logo_banner.png" class="banner-img"/> 
+                                                                  </div> 
+                                                                  
                                                                </div>
-                                                            </div>
-                                                         </div>
-                                                      </div>
-                                                   </section>
-                                                   <section class="elementor-element elementor-element-629aca0d elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="629aca0d" data-element_type="section">
+                                                            </div> 
+                                                   </section> 
+                                                   <section class="sec-below-banner elementor-element elementor-element-629aca0d elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="629aca0d" data-element_type="section">
                                                       <div class="elementor-container elementor-column-gap-default">
                                                          <div class="elementor-row">
                                                             <div class="elementor-element elementor-element-34a03316 elementor-column elementor-col-33 elementor-inner-column" data-id="34a03316" data-element_type="column">
@@ -1053,7 +1025,7 @@
                <div class="modal-content"> 
                   <div class="modal-body" id="yt-player">
                      
-                     <iframe id="video" width="600" height="315" src="https://www.youtube.com/embed/jWa-mna5J6A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                     <iframe id="video" width="650" height="400" src="https://www.youtube.com/embed/jWa-mna5J6A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
                   </div> 
                </div>

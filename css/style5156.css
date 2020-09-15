@@ -184,6 +184,7 @@ input[type="search"] {
 
 .fa-service{
 	margin-right: 10px;
+	font-size: x-large !important;
 }
 
 .search .search-submit {
@@ -662,6 +663,31 @@ blockquote>footer:before {
 
 /* custom css */
 
+@media (min-width: 768px){
+	.modal-dialog {
+		width: 700px !important; 
+	}
+}
+.banner-img:hover{
+	filter: grayscale(100%);
+}
+
+.banner-div{
+	display: flex;
+    width: max-content;
+    margin: 0 auto;
+}
+
+.banner-img{
+	margin-left: 20px;
+	margin-top: -82px;
+	cursor: pointer;
+}
+
+.sec-below-banner{
+	margin-top: -150px;
+}
+
 .play-btn{
 	margin-left: 20px;
 }
@@ -676,6 +702,8 @@ blockquote>footer:before {
 
 .modal-content{
 	background-color: unset !important;
+	box-shadow: unset !important;
+    border: unset !important;
 }
 
 
@@ -1119,6 +1147,20 @@ hr.pr-page-title-hr {
 	margin: 0
 }
 @media (max-width: 767px) {
+
+	.banner-div{
+		display: flex;
+		width: auto;
+		margin: 0 auto;
+	}
+	
+	.banner-img{
+		margin-left: 20px;
+		margin-top: -39px;
+		width: 50%;
+	}
+
+
 	.section-title .entry-title, .single-post-heade-content .entry-title {
 		font-size: 36px !important;
 	}

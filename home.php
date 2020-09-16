@@ -65,7 +65,74 @@
                                                                </div>
                                                             </div> 
                                                    </section> 
-                                                   <section class="sec-below-banner elementor-element elementor-element-629aca0d elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="629aca0d" data-element_type="section">
+
+                                                   <section class="elementor-element elementor-element-3b3840fc pr__section elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="3b3840fc" data-element_type="section" id="pr_client">
+                                                      <div class="elementor-container elementor-column-gap-default">
+                                                         <div class="elementor-row">
+                                                            <div class="elementor-element elementor-element-469c992a elementor-column elementor-col-50 elementor-top-column" data-id="469c992a" data-element_type="column">
+                                                               <div class="elementor-column-wrap  elementor-element-populated">
+                                                                  <div class="elementor-widget-wrap">
+                                                                     <div class="elementor-element elementor-element-27d69e82 r2__shape elementor-widget elementor-widget-spacer" data-id="27d69e82" data-element_type="widget" data-widget_type="spacer.default">
+                                                                        <div class="elementor-widget-container">
+                                                                           <div class="elementor-spacer about-img-pad">
+                                                                              <!-- <div class="elementor-spacer-inner"> -->
+                                                                              <img src="images/about.png" class="img-responsive">
+
+                                                                              <!-- </div> -->
+                                                                           </div>
+                                                                        </div>
+                                                                     </div>
+                                                                  </div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="elementor-element elementor-element-4eee5346 elementor-column elementor-col-50 elementor-top-column" data-id="4eee5346" data-element_type="column">
+                                                               <div class="elementor-column-wrap  elementor-element-populated">
+                                                                  <div class="elementor-widget-wrap">
+                                                                     <div class="elementor-element elementor-element-337650b7 elementor-widget elementor-widget-divider" data-id="337650b7" data-element_type="widget" data-widget_type="divider.default">
+                                                                        <div class="elementor-widget-container">
+                                                                           <!-- <div class="elementor-divider">
+                                                                              <span class="elementor-divider-separator">
+                                                                              </span> 
+                                                                           </div> -->
+                                                                        </div>
+                                                                     </div>
+                                                                     <div class="elementor-element elementor-element-36c93178 elementor-widget elementor-widget-heading" data-id="36c93178" data-element_type="widget" data-widget_type="heading.default">
+                                                                        <div class="elementor-widget-container">
+                                                                           <h2 class="elementor-heading-title elementor-size-default">About Us.</h2>
+                                                                        </div>
+                                                                     </div>
+                                                                     <div class="elementor-element elementor-element-423481d9 elementor-widget elementor-widget-heading" data-id="423481d9" data-element_type="widget" data-widget_type="heading.default">
+                                                                        <div class="elementor-widget-container">
+                                                                           <h4 class="elementor-heading-title elementor-size-default">WE'RE MORE THAN A DIGITAL AGENCY</h4>
+                                                                        </div>
+                                                                     </div>
+                                                                     <div class="elementor-element elementor-element-11b52fd elementor-widget elementor-widget-heading" data-id="11b52fd" data-element_type="widget" data-widget_type="heading.default">
+                                                                        <div class="elementor-widget-container">
+                                                                           <p class="elementor-heading-title elementor-size-default">Probot9 is a convention united with talented, restless and curious individuals passionate about expanding the borders of digital possibilities. PB9 always strive to surpass our clients’ expectations through its undying energy, continuous learning philosophy and collaborative work ethic.</p>
+                                                                        </div>
+                                                                     </div>
+                                                                     <div class="elementor-element elementor-element-d022de1 elementor-widget elementor-widget-divider" data-id="d022de1" data-element_type="widget" data-widget_type="divider.default">
+                                                                        <div class="elementor-widget-container">
+                                                                           <div class="elementor-divider">
+                                                                              <span class="elementor-divider-separator">
+                                                                              </span>
+                                                                           </div>
+                                                                        </div>
+                                                                     </div>
+                                                                     <!-- <div class="elementor-element elementor-element-522aaec0 elementor-widget elementor-widget-heading" data-id="522aaec0" data-element_type="widget" data-widget_type="heading.default">
+                                                                        <div class="elementor-widget-container">
+                                                                           <h6 class="elementor-heading-title elementor-size-default">ARON SMITH, UX DESIGNER</h6>
+                                                                        </div>
+                                                                     </div> -->
+                                                                  </div>
+                                                               </div>
+                                                            </div>
+                                                         </div>
+                                                      </div>
+                                                   </section>
+
+                                                   
+                                                   <!-- <section class="sec-below-banner elementor-element elementor-element-629aca0d elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="629aca0d" data-element_type="section">
                                                       <div class="elementor-container elementor-column-gap-default">
                                                          <div class="elementor-row">
                                                             <div class="elementor-element elementor-element-34a03316 elementor-column elementor-col-33 elementor-inner-column" data-id="34a03316" data-element_type="column">
@@ -146,7 +213,7 @@
                                                             </div>
                                                          </div>
                                                       </div>
-                                                   </section>
+                                                   </section> -->
                                                 </div>
                                              </div>
                                           </div>
@@ -720,67 +787,7 @@
                                        </div>
                                     </div>
                                  </section>
-                                 <section class="elementor-element elementor-element-3b3840fc pr__section elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="3b3840fc" data-element_type="section" id="pr_client">
-                                    <div class="elementor-container elementor-column-gap-default">
-                                       <div class="elementor-row">
-                                          <div class="elementor-element elementor-element-469c992a elementor-column elementor-col-50 elementor-top-column" data-id="469c992a" data-element_type="column">
-                                             <div class="elementor-column-wrap  elementor-element-populated">
-                                                <div class="elementor-widget-wrap">
-                                                   <div class="elementor-element elementor-element-27d69e82 r2__shape elementor-widget elementor-widget-spacer" data-id="27d69e82" data-element_type="widget" data-widget_type="spacer.default">
-                                                      <div class="elementor-widget-container">
-                                                         <div class="elementor-spacer">
-                                                            <div class="elementor-spacer-inner"></div>
-                                                         </div>
-                                                      </div>
-                                                   </div>
-                                                </div>
-                                             </div>
-                                          </div>
-                                          <div class="elementor-element elementor-element-4eee5346 elementor-column elementor-col-50 elementor-top-column" data-id="4eee5346" data-element_type="column">
-                                             <div class="elementor-column-wrap  elementor-element-populated">
-                                                <div class="elementor-widget-wrap">
-                                                   <div class="elementor-element elementor-element-337650b7 elementor-widget elementor-widget-divider" data-id="337650b7" data-element_type="widget" data-widget_type="divider.default">
-                                                      <div class="elementor-widget-container">
-                                                         <div class="elementor-divider">
-                                                            <span class="elementor-divider-separator">
-                                                            </span>
-                                                         </div>
-                                                      </div>
-                                                   </div>
-                                                   <div class="elementor-element elementor-element-36c93178 elementor-widget elementor-widget-heading" data-id="36c93178" data-element_type="widget" data-widget_type="heading.default">
-                                                      <div class="elementor-widget-container">
-                                                         <h2 class="elementor-heading-title elementor-size-default">What Clients Say.</h2>
-                                                      </div>
-                                                   </div>
-                                                   <div class="elementor-element elementor-element-423481d9 elementor-widget elementor-widget-heading" data-id="423481d9" data-element_type="widget" data-widget_type="heading.default">
-                                                      <div class="elementor-widget-container">
-                                                         <h4 class="elementor-heading-title elementor-size-default">WE'RE MORE THAN A DIGITAL AGENCY</h4>
-                                                      </div>
-                                                   </div>
-                                                   <div class="elementor-element elementor-element-11b52fd elementor-widget elementor-widget-heading" data-id="11b52fd" data-element_type="widget" data-widget_type="heading.default">
-                                                      <div class="elementor-widget-container">
-                                                         <p class="elementor-heading-title elementor-size-default">We are motivated by the satisfaction of our clients. Put your trust in us and share in our growth Asset Management is made up of a team of expert, committed and experienced people with a passion for financial markets. Our goal is to achieve continuous and sustainable growth of our clients.</p>
-                                                      </div>
-                                                   </div>
-                                                   <div class="elementor-element elementor-element-d022de1 elementor-widget elementor-widget-divider" data-id="d022de1" data-element_type="widget" data-widget_type="divider.default">
-                                                      <div class="elementor-widget-container">
-                                                         <div class="elementor-divider">
-                                                            <span class="elementor-divider-separator">
-                                                            </span>
-                                                         </div>
-                                                      </div>
-                                                   </div>
-                                                   <div class="elementor-element elementor-element-522aaec0 elementor-widget elementor-widget-heading" data-id="522aaec0" data-element_type="widget" data-widget_type="heading.default">
-                                                      <div class="elementor-widget-container">
-                                                         <h6 class="elementor-heading-title elementor-size-default">ARON SMITH, UX DESIGNER</h6>
-                                                      </div>
-                                                   </div>
-                                                </div>
-                                             </div>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </section>
+                                 
                                  <section class="elementor-element elementor-element-6eb17df elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="6eb17df" data-element_type="section">
                                     <div class="elementor-container elementor-column-gap-default">
                                        <div class="elementor-row">

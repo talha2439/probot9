@@ -1018,6 +1018,43 @@
                </div>
             </div>
          </div>
+
+         <div class="side-bars" style="z-index: 999;">
+              
+               <div class="s-bar clearfix clerfix-black" style="right: 0px;">
+                  <a href="#" class="mod_an">      
+                     <span class="pnumlive">Get a Quote</span>
+                  </a>
+               </div>
+               <div class="s-bar clearfix clerfix-org" style="right: 0px;">
+                  <a href="#" class="mod_anb">   
+                     <span class="pnumlive">Shop Now</span>
+                  </a>
+               </div>
+               <div class="s-bar clearfix clerfix-black" style="right: 0px;">
+                  <a href="#" class="mod_an">   
+                     <span class="pnumlive">Get a Quote</span>
+                  </a>
+               </div>
+               <div class="s-bar clearfix clerfix-org" style="right: 0px;">
+                  <a href="#" class="mod_anb">   
+                     <span class="pnumlive">Project Manage</span>
+                  </a>
+               </div> 
+ 
+
+
+
+
+
+               <!-- <div class="s-bar clearfix" style="right: 0px;">
+                  <a href="javascript:;" target="_self" title="Live Chat" class="chat">
+                     <div class="chat-spr"><i class="fas fa-comment-alt"></i></div>
+                     <p>Get Advice from Expert</p>
+                     <span class="pnumlive">Live CHAT</span>
+                  </a>
+               </div> -->
+            </div>
          <!-- site-footer -->
          
          <?php include('widgets/footer.php')?>
@@ -1030,9 +1067,15 @@
             
                <!-- Modal content-->
                <div class="modal-content"> 
+                  <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" style="opacity:unset;color:#fff">&times;</button> 
+                  </div>
                   <div class="modal-body" id="yt-player">
                      
-                     <iframe id="video" width="650" height="400" src="https://www.youtube.com/embed/jWa-mna5J6A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                     <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/460095863?autoplay=1&loop=1" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+
+                     <!-- <iframe id="video" width="650" height="400" src="https://www.youtube.com/embed/jWa-mna5J6A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
                   </div> 
                </div>

@@ -1,0 +1,40 @@
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^livedrills.com [NC]
+RewriteRule ^(.*)$ https://www.livedrills.com/$1 [L,R=301]
+
+RewriteCond %{SERVER_PORT} 80 
+RewriteRule ^(.*)$ https://www.livedrills.com/$1 [R,L]
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)/$ /$1 [L,R] # <- for test, for prod use [L,R=301]
+
+
+ErrorDocument 404 /404.php
+
+RewriteRule ^corona-safety corona.php?page=$1 [QSA]
+#RewriteRule ^brands$ stores.php?page=$1
+RewriteRule ^about$ about.php?page=$1
+RewriteRule ^terms$ terms.php?page=$1
+RewriteRule ^privacy$ privacy.php?page=$1
+
+RewriteRule ^contact$ contact.php?page=$1
+
+<FilesMatch "\.(ico|pdf|flv|jpg|jpeg|png|gif|js|css|swf)(\.gz)?$">
+Header unset ETag
+FileETag None
+</FilesMatch>
+
+RewriteRule ^get-a-quote$ get-a-quote.php?page=$1
+RewriteRule ^services$ services.php?page=$1
+RewriteRule ^$ index.php?page=$1
+RewriteRule ^shop-now$ shop-now.php?page=$1
+RewriteRule ^retainer-package$ retainer-package.php?page=$1
+RewriteRule ^web-package$ web-package.php?page=$1
+
+RewriteRule ^store/([a-z0-9-.]+)\/?$ store_single.php?storeSlug=$1 [NC]
+RewriteRule ^blog/([a-z0-9-]+)\/?$ blog_single.php?blogSlug=$1 [NC] 
+RewriteRule ^draft/([a-z0-9-]+)\/?$ draft_blog.php?blogSlug=$1 [NC]  
+RewriteRule ^category/([a-z0-9-]+)\/?$ category-single.php?categorySlug=$1 [NC] 
+RewriteRule ^blog/category/([a-z0-9-]+)\/?$ category.php?catSlug=$1 [NC]
+
+ 

@@ -2621,7 +2621,7 @@ span.pr_required{
     right: 0px;
     margin-right: 0;
     margin-top: -230px;
-    width: 80px;
+    width: 84px;
     /*display: block;
     display: none;
     right: -215px; 
@@ -2637,8 +2637,9 @@ span.pr_required{
     display: block; 
 }
 .side-bars .s-bar a {
-    font-size: 1.2em;
-    padding: 0; 
+    font-size: 1.09em;
+    padding: 0;
+    color: #fff;
     float: left;
     margin-top: 0px;
     font-weight: 700; 
@@ -2648,41 +2649,39 @@ span.pr_required{
     border-bottom-left-radius: 6px;*/
 } 
 .clerfix-black{
-	background: #232323; 
-	transition: all 0.5s ease-in-out;
-}
-.clerfix-black .mod_an:hover{
-	background: #ffffff;
-    color: #232323;
-    border-top: 1px solid #232323;
-    border-bottom: 1px solid #232323;
-    border-left: 1px solid #232323;
+	background: #232323;
 }
 .clerfix-black a{
 	background: #232323;
-	color: #fff;
+}
+.clerfix-black:hover{
+	background: #feaa02;
+	color: #232323;
+} 
+.clerfix-black:hover a{
+	background: #feaa02;
+	color: #232323;
 }
 .clerfix-org{ 
     background: #feaa02;
-    transition: all 0.5s ease-in-out;	
-}
-.clerfix-org .mod_anb:hover{
-	background: #232323;
-    color: #feaa02;
-    border-top: 1px solid #feaa02;
-    border-bottom: 1px solid #feaa02;
-    border-left: 1px solid #feaa02;
 }
 .clerfix-org a{
 	background: #feaa02;
-	color: #000;
+}
+.clerfix-org:hover{
+	background: #232323;
+	color: #fff;
+} 
+.clerfix-org:hover a{
+	background: #232323;
+	color: #fff;
 }
 .clerfix-red a{
 	background: #feaa02;
 }
 @media only screen and (max-width: 600px) {
   .side-bars{
-    width: 60px;
+    width: 67px;
     top: 72%;
 	}
 	.side-bars .s-bar a {
@@ -2690,4 +2689,144 @@ span.pr_required{
 		font-weight: 100;
 	}
 
+}
+.backng_img{
+	background-image: url(../images/ser-one.png);
+	background-size: cover;
+}
+/*.dropdown-content{
+	display: none;
+}*/
+/*.d_btn:hover{
+	display: none !important;
+}*/
+ 
+.dropbtn1{
+	position: relative;
+    display: inline-block;
+} 
+
+.dropdown-content1 {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content1 li {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+} 
+
+.dropbtn1:hover .dropdown-content1 {display: block;}
+
+.dropbtn1{
+	position: relative;
+    display: inline-block;
+} 
+.dropdown-content1 li a {
+    color: #333333; 
+}
+.dropdown-content1 li a:hover{
+    border-bottom: 1px solid #feaa02;
+	border-width: unset;
+}
+.dropdown-content2 {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content2 li {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}  
+
+.dropbtn2:hover .dropdown-content2 {display: block;}
+
+.dropdown-content2 li a {
+    color: #333333; 
+}
+.dropdown-content2 li a:hover{
+    border-bottom: 1px solid #feaa02;
+	border-width: unset;
+}
+/*break*/
+.dropdown-content-black {
+  display: none;
+  position: absolute;
+  background-color: rgba(0,0,0,0.9);
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content-black li {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}  
+
+.drop_btn_black:hover .dropdown-content-black {display: block;}
+
+.dropdown-content-black li a {
+    color: #fff; 
+}
+.dropdown-content-black li a:hover{
+    border-bottom: 1px solid #feaa02;
+	border-width: unset;
+}
+
+.dropdown-content-black2 {
+  display: none;
+  position: absolute;
+  background-color: rgba(0,0,0,0.9);
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content-black2 li {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}  
+
+.drop_btn_black2:hover .dropdown-content-black2 {display: block;}
+
+.dropdown-content-black2 li a {
+    color: #fff; 
+}
+.dropdown-content-black2 li a:hover{
+    border-bottom: 1px solid #feaa02;
+	border-width: unset;
+}
+/*<mobilerop*/
+.ddcellzero{
+	list-style: none;
+	display: none; 
+}
+.ddcell1{
+	list-style: none;
+	display: block !important;
+}
+
+.ddcellzero2{
+	list-style: none;
+	display: none; 
+}
+.ddcell2{
+	list-style: none;
+	display: block !important;
 }

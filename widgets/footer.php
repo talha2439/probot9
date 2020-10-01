@@ -82,8 +82,25 @@
                                                                            <div class="elementor-element elementor-element-71a09f8 elementor-widget elementor-widget-text-editor" data-id="71a09f8" data-element_type="widget" data-widget_type="text-editor.default">
                                                                               <div class="elementor-widget-container">
                                                                                  <div class="elementor-text-editor elementor-clearfix">
-                                                                                    <p>Let’s make something awesome together</p>
+                                                                                    <p>+92 313 1705111</p>
                                                                                  </div>
+                                                                              </div>
+                                                                           </div>
+                                                                           <div class="elementor-element elementor-element-18bb810 elementor-widget elementor-widget-heading" data-id="18bb810" data-element_type="widget" data-widget_type="heading.default">
+                                                                              <div class="elementor-widget-container">
+                                                                                 <h2 class="elementor-heading-title elementor-size-default">Or Visit</h2>
+                                                                              </div>
+                                                                           </div>
+                                                                           <div class="elementor-element elementor-element-71a09f8 elementor-widget elementor-widget-text-editor" data-id="71a09f8" data-element_type="widget" data-widget_type="text-editor.default">
+                                                                              <div class="elementor-widget-container">
+                                                                                 <div class="elementor-text-editor elementor-clearfix">
+                                                                                    <p>G-9 Columbus Towers Main Clifton Road, Karachi</p>
+                                                                                 </div>
+                                                                              </div>
+                                                                           </div>
+                                                                           <div class="elementor-element elementor-element-18bb810 elementor-widget elementor-widget-heading" data-id="18bb810" data-element_type="widget" data-widget_type="heading.default">
+                                                                              <div class="elementor-widget-container">
+                                                                                 <h2 class="elementor-heading-title elementor-size-default">Or Fill the form</h2>
                                                                               </div>
                                                                            </div>
                                                                            <div class="elementor-element elementor-element-2d47742 elementor-widget elementor-widget-pr-contact-form" data-id="2d47742" data-element_type="widget" data-widget_type="pr-contact-form.default">
@@ -157,7 +174,7 @@
             <section class="elementor-element elementor-element-dc373cc elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="dc373cc" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
                <div class="elementor-container elementor-column-gap-default">
                   <div class="elementor-row">
-                     <div class="elementor-element elementor-element-1ad5001 elementor-column elementor-col-50 elementor-top-column" data-id="1ad5001" data-element_type="column">
+                     <div class="elementor-element elementor-element-1ad5001 elementor-column elementor-col-100 elementor-top-column" data-id="1ad5001" data-element_type="column">
                         <div class="elementor-column-wrap  elementor-element-populated">
                            <div class="elementor-widget-wrap">
                               <div class="elementor-element elementor-element-a49a390 pr-infobox-content-align-center elementor-widget elementor-widget-pr-infobox" data-id="a49a390" data-element_type="widget" data-widget_type="pr-infobox.default">
@@ -165,8 +182,9 @@
                                     <a href="#"  >
                                        <div class="pr-infobox">
                                           <div class="infobox-content">
-                                             <h3 class="title">Berlin.</h3>
-                                             <p>+21 30 310 0010</p>
+                                             <h3 class="title">Karachi.</h3>
+                                             <p>+92 313 1705111</p>
+                                             <p>G-9 Columbus Towers Main Clifton Road,  Karachi</p>
                                           </div>
                                        </div>
                                     </a>
@@ -175,7 +193,7 @@
                            </div>
                         </div>
                      </div>
-                     <div class="elementor-element elementor-element-2a7854b elementor-column elementor-col-50 elementor-top-column" data-id="2a7854b" data-element_type="column">
+                     <!-- <div class="elementor-element elementor-element-2a7854b elementor-column elementor-col-50 elementor-top-column" data-id="2a7854b" data-element_type="column">
                         <div class="elementor-column-wrap  elementor-element-populated">
                            <div class="elementor-widget-wrap">
                               <div class="elementor-element elementor-element-b02f2c6 pr-infobox-content-align-center elementor-widget elementor-widget-pr-infobox" data-id="b02f2c6" data-element_type="widget" data-widget_type="pr-infobox.default">
@@ -192,7 +210,7 @@
                               </div>
                            </div>
                         </div>
-                     </div>
+                     </div> -->
                   </div>
                </div>
             </section>

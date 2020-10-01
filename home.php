@@ -66,70 +66,70 @@
                                                             </div> 
                                                    </section> 
 
-                                                   <section class="elementor-element elementor-element-3b3840fc pr__section elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="3b3840fc" data-element_type="section" id="pr_client">
-                                                      <div class="elementor-container elementor-column-gap-default">
-                                                         <div class="elementor-row">
-                                                            <div class="elementor-element elementor-element-469c992a elementor-column elementor-col-50 elementor-top-column" data-id="469c992a" data-element_type="column">
-                                                               <div class="elementor-column-wrap  elementor-element-populated">
-                                                                  <div class="elementor-widget-wrap">
-                                                                     <div class="elementor-element elementor-element-27d69e82 r2__shape elementor-widget elementor-widget-spacer" data-id="27d69e82" data-element_type="widget" data-widget_type="spacer.default">
-                                                                        <div class="elementor-widget-container">
-                                                                           <div class="elementor-spacer about-img-pad">
-                                                                              <!-- <div class="elementor-spacer-inner"> -->
-                                                                              <img src="images/about.png" class="img-responsive">
+                                                      <section class="elementor-element elementor-element-3b3840fc pr__section elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="3b3840fc" data-element_type="section" id="pr_client">
+                                                         <div class="elementor-container elementor-column-gap-default">
+                                                            <div class="elementor-row">
+                                                               <div class="elementor-element elementor-element-469c992a elementor-column elementor-col-50 elementor-top-column" data-id="469c992a" data-element_type="column">
+                                                                  <div class="elementor-column-wrap  elementor-element-populated">
+                                                                     <div class="elementor-widget-wrap">
+                                                                        <div class="elementor-element elementor-element-27d69e82 r2__shape elementor-widget elementor-widget-spacer" data-id="27d69e82" data-element_type="widget" data-widget_type="spacer.default">
+                                                                           <div class="elementor-widget-container">
+                                                                              <div class="elementor-spacer about-img-pad">
+                                                                                 <!-- <div class="elementor-spacer-inner"> -->
+                                                                                 <img src="images/about.png" class="img-responsive">
 
-                                                                              <!-- </div> -->
+                                                                                 <!-- </div> -->
+                                                                              </div>
                                                                            </div>
                                                                         </div>
                                                                      </div>
                                                                   </div>
                                                                </div>
-                                                            </div>
-                                                            <div class="elementor-element elementor-element-4eee5346 elementor-column elementor-col-50 elementor-top-column" data-id="4eee5346" data-element_type="column">
-                                                               <div class="elementor-column-wrap  elementor-element-populated">
-                                                                  <div class="elementor-widget-wrap">
-                                                                     <div class="elementor-element elementor-element-337650b7 elementor-widget elementor-widget-divider" data-id="337650b7" data-element_type="widget" data-widget_type="divider.default">
-                                                                        <div class="elementor-widget-container">
-                                                                           <!-- <div class="elementor-divider">
-                                                                              <span class="elementor-divider-separator">
-                                                                              </span> 
-                                                                           </div> -->
-                                                                        </div>
-                                                                     </div>
-                                                                     <div class="elementor-element elementor-element-36c93178 elementor-widget elementor-widget-heading" data-id="36c93178" data-element_type="widget" data-widget_type="heading.default">
-                                                                        <div class="elementor-widget-container">
-                                                                           <h2 class="elementor-heading-title elementor-size-default">About Us.</h2>
-                                                                        </div>
-                                                                     </div>
-                                                                     <div class="elementor-element elementor-element-423481d9 elementor-widget elementor-widget-heading" data-id="423481d9" data-element_type="widget" data-widget_type="heading.default">
-                                                                        <div class="elementor-widget-container">
-                                                                           <h4 class="elementor-heading-title elementor-size-default">WE'RE MORE THAN A DIGITAL AGENCY</h4>
-                                                                        </div>
-                                                                     </div>
-                                                                     <div class="elementor-element elementor-element-11b52fd elementor-widget elementor-widget-heading" data-id="11b52fd" data-element_type="widget" data-widget_type="heading.default">
-                                                                        <div class="elementor-widget-container">
-                                                                           <p class="elementor-heading-title elementor-size-default">Probot9 is a convention united with talented, restless and curious individuals passionate about expanding the borders of digital possibilities. PB9 always strive to surpass our clients’ expectations through its undying energy, continuous learning philosophy and collaborative work ethic.</p>
-                                                                        </div>
-                                                                     </div>
-                                                                     <div class="elementor-element elementor-element-d022de1 elementor-widget elementor-widget-divider" data-id="d022de1" data-element_type="widget" data-widget_type="divider.default">
-                                                                        <div class="elementor-widget-container">
-                                                                           <div class="elementor-divider">
-                                                                              <span class="elementor-divider-separator">
-                                                                              </span>
+                                                               <div class="elementor-element elementor-element-4eee5346 elementor-column elementor-col-50 elementor-top-column" data-id="4eee5346" data-element_type="column">
+                                                                  <div class="elementor-column-wrap  elementor-element-populated">
+                                                                     <div class="elementor-widget-wrap">
+                                                                        <div class="elementor-element elementor-element-337650b7 elementor-widget elementor-widget-divider" data-id="337650b7" data-element_type="widget" data-widget_type="divider.default">
+                                                                           <div class="elementor-widget-container">
+                                                                              <!-- <div class="elementor-divider">
+                                                                                 <span class="elementor-divider-separator">
+                                                                                 </span> 
+                                                                              </div> -->
                                                                            </div>
                                                                         </div>
-                                                                     </div>
-                                                                     <!-- <div class="elementor-element elementor-element-522aaec0 elementor-widget elementor-widget-heading" data-id="522aaec0" data-element_type="widget" data-widget_type="heading.default">
-                                                                        <div class="elementor-widget-container">
-                                                                           <h6 class="elementor-heading-title elementor-size-default">ARON SMITH, UX DESIGNER</h6>
+                                                                        <div class="elementor-element elementor-element-36c93178 elementor-widget elementor-widget-heading" data-id="36c93178" data-element_type="widget" data-widget_type="heading.default">
+                                                                           <div class="elementor-widget-container">
+                                                                              <h2 class="elementor-heading-title elementor-size-default">About Us.</h2>
+                                                                           </div>
                                                                         </div>
-                                                                     </div> -->
+                                                                        <div class="elementor-element elementor-element-423481d9 elementor-widget elementor-widget-heading" data-id="423481d9" data-element_type="widget" data-widget_type="heading.default">
+                                                                           <div class="elementor-widget-container">
+                                                                              <h4 class="elementor-heading-title elementor-size-default">WE'RE MORE THAN A DIGITAL AGENCY</h4>
+                                                                           </div>
+                                                                        </div>
+                                                                        <div class="elementor-element elementor-element-11b52fd elementor-widget elementor-widget-heading" data-id="11b52fd" data-element_type="widget" data-widget_type="heading.default">
+                                                                           <div class="elementor-widget-container">
+                                                                              <p class="elementor-heading-title elementor-size-default">Probot9 is a convention united with talented, restless and curious individuals passionate about expanding the borders of digital possibilities. PB9 always strive to surpass our clients’ expectations through its undying energy, continuous learning philosophy and collaborative work ethic.</p>
+                                                                           </div>
+                                                                        </div>
+                                                                        <div class="elementor-element elementor-element-d022de1 elementor-widget elementor-widget-divider" data-id="d022de1" data-element_type="widget" data-widget_type="divider.default">
+                                                                           <div class="elementor-widget-container">
+                                                                              <div class="elementor-divider">
+                                                                                 <span class="elementor-divider-separator">
+                                                                                 </span>
+                                                                              </div>
+                                                                           </div>
+                                                                        </div>
+                                                                        <!-- <div class="elementor-element elementor-element-522aaec0 elementor-widget elementor-widget-heading" data-id="522aaec0" data-element_type="widget" data-widget_type="heading.default">
+                                                                           <div class="elementor-widget-container">
+                                                                              <h6 class="elementor-heading-title elementor-size-default">ARON SMITH, UX DESIGNER</h6>
+                                                                           </div>
+                                                                        </div> -->
+                                                                     </div>
                                                                   </div>
                                                                </div>
                                                             </div>
                                                          </div>
-                                                      </div>
-                                                   </section>
+                                                      </section>
 
                                                    
                                                    <!-- <section class="sec-below-banner elementor-element elementor-element-629aca0d elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="629aca0d" data-element_type="section">
@@ -445,348 +445,24 @@
                                        </div>
                                     </div>
                                  </section>
-                                 <section class="elementor-element elementor-element-12859b34 pr__section elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="12859b34" data-element_type="section" id="pr_works">
-                                    <div class="elementor-container elementor-column-gap-default">
-                                       <div class="elementor-row">
-                                          <div class="elementor-element elementor-element-54958c56 elementor-column elementor-col-100 elementor-top-column" data-id="54958c56" data-element_type="column">
-                                             <div class="elementor-column-wrap  elementor-element-populated">
-                                                <div class="elementor-widget-wrap">
-                                                   <section class="elementor-element elementor-element-154f7aa2 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="154f7aa2" data-element_type="section">
-                                                      <div class="elementor-container elementor-column-gap-default">
-                                                         <div class="elementor-row">
-                                                            <div class="elementor-element elementor-element-1aa8172a elementor-column elementor-col-50 elementor-inner-column" data-id="1aa8172a" data-element_type="column">
-                                                               <div class="elementor-column-wrap  elementor-element-populated">
-                                                                  <div class="elementor-widget-wrap">
-                                                                     <div class="elementor-element elementor-element-48dec36b elementor-widget elementor-widget-divider" data-id="48dec36b" data-element_type="widget" data-widget_type="divider.default">
-                                                                        <div class="elementor-widget-container">
-                                                                           <div class="elementor-divider">
-                                                                              <span class="elementor-divider-separator">
-                                                                              </span>
-                                                                           </div>
-                                                                        </div>
-                                                                     </div>
-                                                                     <div class="elementor-element elementor-element-2e87bca0 elementor-widget elementor-widget-heading" data-id="2e87bca0" data-element_type="widget" data-widget_type="heading.default">
-                                                                        <div class="elementor-widget-container">
-                                                                           <h2 class="elementor-heading-title elementor-size-default">Works.</h2>
-                                                                        </div>
-                                                                     </div>
-                                                                     <div class="elementor-element elementor-element-295eb79 elementor-widget elementor-widget-heading" data-id="295eb79" data-element_type="widget" data-widget_type="heading.default">
-                                                                        <div class="elementor-widget-container">
-                                                                           <h4 class="elementor-heading-title elementor-size-default">THINGS WE'VE MADE</h4>
-                                                                        </div>
-                                                                     </div>
-                                                                  </div>
-                                                               </div>
-                                                            </div>
-                                                            <div class="elementor-element elementor-element-238e6c44 elementor-column elementor-col-50 elementor-inner-column" data-id="238e6c44" data-element_type="column">
-                                                               <div class="elementor-column-wrap  elementor-element-populated">
-                                                                  <div class="elementor-widget-wrap">
-                                                                     <div class="elementor-element elementor-element-6cf4a5ec elementor-widget elementor-widget-pr-button" data-id="6cf4a5ec" data-element_type="widget" data-widget_type="pr-button.default">
-                                                                        <div class="elementor-widget-container">
-<!--
-                                                                           <div class="pr-button-container">
-                                                                              <a class="pr-button  pr-button-lg pr-button-style1-right" href="#">
-                                                                                 <div class="pr-button-text-icon-wrapper"><span >View All</span></div>
-                                                                              </a>
-                                                                           </div>
--->
-                                                                        </div>
-                                                                     </div>
-                                                                  </div>
-                                                               </div>
-                                                            </div>
-                                                         </div>
-                                                      </div>
-                                                   </section>
-                                                   <section class="elementor-element elementor-element-6c97b883 elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="6c97b883" data-element_type="section">
-                                                      <div class="elementor-container elementor-column-gap-default">
-                                                         <div class="elementor-row">
-                                                            <div class="elementor-element elementor-element-1f88df15 elementor-column elementor-col-100 elementor-inner-column" data-id="1f88df15" data-element_type="column">
-                                                               <div class="elementor-column-wrap  elementor-element-populated">
-                                                                  <div class="elementor-widget-wrap">
-                                                                     <div class="elementor-element elementor-element-38139776 elementor-widget elementor-widget-pr-postcarousel" data-id="38139776" data-element_type="widget" data-widget_type="pr-postcarousel.default">
-                                                                        <div class="elementor-widget-container">
-                                                                           <div class="swiper-container-wrap pr-blog-carousel-wrap swiper-container-wrap-dots-outside style-four" data-slider-settings="{&quot;direction&quot;:&quot;horizontal&quot;,&quot;speed&quot;:400,&quot;effect&quot;:&quot;slide&quot;,&quot;slidesPerView&quot;:3,&quot;spaceBetween&quot;:10,&quot;grabCursor&quot;:true,&quot;autoHeight&quot;:true,&quot;loop&quot;:true,&quot;autoplay&quot;:{&quot;delay&quot;:999999},&quot;pagination&quot;:{&quot;el&quot;:&quot;.swiper-pagination-38139776&quot;,&quot;type&quot;:&quot;bullets&quot;,&quot;clickable&quot;:true},&quot;breakpoints&quot;:{&quot;960&quot;:{&quot;slidesPerView&quot;:3,&quot;spaceBetween&quot;:10},&quot;640&quot;:{&quot;slidesPerView&quot;:2,&quot;spaceBetween&quot;:0},&quot;320&quot;:{&quot;slidesPerView&quot;:1,&quot;spaceBetween&quot;:10}}}">
-                                                                              <div class="swiper-container pr-blog-carousel" data-pagination=".swiper-pagination-38139776">
-                                                                                 <div class="swiper-wrapper">
-                                                                                    <div class="swiper-slide">
-                                                                                       <article class="item work-box">
-                                                                                          <div class="outer">
-                                                                                             <div class="image pr__image__cover pr__ratio__square" data-src="images/03-min-1-1024x683.jpg" data-uk-img></div>
-                                                                                             <div class="inner">
-                                                                                                <h3 class="title"><a href="#">Product Design</a></h3>
-                                                                                                <div class="category"><a href="#" rel="tag">Design</a> / <a href="#" rel="tag">Marketing</a></div>
-                                                                                                <a href="#" class="link uk-position-cover"></a>
-                                                                                             </div>
-                                                                                          </div>
-                                                                                       </article>
-                                                                                    </div>
-                                                                                    <div class="swiper-slide">
-                                                                                       <article class="item work-box">
-                                                                                          <div class="outer">
-                                                                                             <div class="image pr__image__cover pr__ratio__square" data-src="images/04-min-1-1024x683.jpg" data-uk-img></div>
-                                                                                             <div class="inner">
-                                                                                                <h3 class="title"><a href="#">Woody</a></h3>
-                                                                                                <div class="category"><a href="#" rel="tag">Architecture</a> / <a href="#" rel="tag">Concept</a></div>
-                                                                                                <a href="#"></a>
-                                                                                             </div>
-                                                                                          </div>
-                                                                                       </article>
-                                                                                    </div>
-                                                                                    <div class="swiper-slide">
-                                                                                       <article class="item work-box">
-                                                                                          <div class="outer">
-                                                                                             <div class="image pr__image__cover pr__ratio__square" data-src="images/07-min-1024x683.jpg" data-uk-img></div>
-                                                                                             <div class="inner">
-                                                                                                <h3 class="title"><a href="#">Interior Design</a></h3>
-                                                                                                <div class="category"><a href="#" rel="tag">Architecture</a> / <a href="#" rel="tag">Design</a></div>
-                                                                                                <a href="#" class="link uk-position-cover"></a>
-                                                                                             </div>
-                                                                                          </div>
-                                                                                       </article>
-                                                                                    </div>
-                                                                                    <div class="swiper-slide">
-                                                                                       <article class="item work-box">
-                                                                                          <div class="outer">
-                                                                                             <div class="image pr__image__cover pr__ratio__square" data-src="images/05-min-1-1024x683.jpg" data-uk-img></div>
-                                                                                             <div class="inner">
-                                                                                                <h3 class="title"><a href="#">Electrica</a></h3>
-                                                                                                <div class="category"><a href="#" rel="tag">App</a></div>
-                                                                                                <a href="#" class="link uk-position-cover"></a>
-                                                                                             </div>
-                                                                                          </div>
-                                                                                       </article>
-                                                                                    </div>
-                                                                                    <div class="swiper-slide">
-                                                                                       <article class="item work-box">
-                                                                                          <div class="outer">
-                                                                                             <div class="image pr__image__cover pr__ratio__square" data-src="images/08-min-683x1024.jpg" data-uk-img></div>
-                                                                                             <div class="inner">
-                                                                                                <h3 class="title"><a href="#">Home Design</a></h3>
-                                                                                                <div class="category"><a href="#" rel="tag">Architecture</a> / <a href="#" rel="tag">Design</a></div>
-                                                                                                <a href="#" class="link uk-position-cover"></a>
-                                                                                             </div>
-                                                                                          </div>
-                                                                                       </article>
-                                                                                    </div>
-                                                                                    <div class="swiper-slide">
-                                                                                       <article class="item work-box">
-                                                                                          <div class="outer">
-                                                                                             <div class="image pr__image__cover pr__ratio__square" data-src="images/02-min-1-1024x683.jpg" data-uk-img></div>
-                                                                                             <div class="inner">
-                                                                                                <h3 class="title"><a href="#">Bikeer</a></h3>
-                                                                                                <div class="category"><a href="#" rel="tag">Concept</a> / <a href="#" rel="tag">Design</a></div>
-                                                                                                <a href="#" class="link uk-position-cover"></a>
-                                                                                             </div>
-                                                                                          </div>
-                                                                                       </article>
-                                                                                    </div>
-                                                                                 </div>
-                                                                                 <div class="swiper-pagination swiper-pagination-38139776"></div>
-                                                                              </div>
-                                                                           </div>
-                                                                        </div>
-                                                                     </div>
-                                                                  </div>
-                                                               </div>
-                                                            </div>
-                                                         </div>
-                                                      </div>
-                                                   </section>
+                                 
+                                                   
                                                 </div>
                                              </div>
                                           </div>
                                        </div>
                                     </div>
                                  </section>
-                                 <section class="elementor-element elementor-element-4fda32bd pr__section elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="4fda32bd" data-element_type="section" id="pr_about">
-                                    <div class="elementor-container elementor-column-gap-default">
-                                       <div class="elementor-row">
-                                          <div class="elementor-element elementor-element-2e36131b elementor-column elementor-col-100 elementor-top-column" data-id="2e36131b" data-element_type="column">
-                                             <div class="elementor-column-wrap  elementor-element-populated">
-                                                <div class="elementor-widget-wrap">
-                                                   <section class="elementor-element elementor-element-4dd30049 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="4dd30049" data-element_type="section">
-                                                      <div class="elementor-container elementor-column-gap-default">
-                                                         <div class="elementor-row">
-                                                            <div class="elementor-element elementor-element-4da50246 elementor-column elementor-col-50 elementor-inner-column" data-id="4da50246" data-element_type="column">
-                                                               <div class="elementor-column-wrap  elementor-element-populated">
-                                                                  <div class="elementor-widget-wrap">
-                                                                     <div class="elementor-element elementor-element-4a934e81 elementor-widget elementor-widget-divider" data-id="4a934e81" data-element_type="widget" data-widget_type="divider.default">
-                                                                        <div class="elementor-widget-container">
-                                                                           <div class="elementor-divider">
-                                                                              <span class="elementor-divider-separator">
-                                                                              </span>
-                                                                           </div>
-                                                                        </div>
-                                                                     </div>
-                                                                     <div class="elementor-element elementor-element-ef292f6 elementor-widget elementor-widget-heading" data-id="ef292f6" data-element_type="widget" data-widget_type="heading.default">
-                                                                        <div class="elementor-widget-container">
-                                                                           <h2 class="elementor-heading-title elementor-size-default">About.</h2>
-                                                                        </div>
-                                                                     </div>
-                                                                     <div class="elementor-element elementor-element-7b97e8af elementor-widget elementor-widget-heading" data-id="7b97e8af" data-element_type="widget" data-widget_type="heading.default">
-                                                                        <div class="elementor-widget-container">
-                                                                           <h4 class="elementor-heading-title elementor-size-default">WE'RE MORE THAN A DIGITAL AGENCY</h4>
-                                                                        </div>
-                                                                     </div>
-                                                                  </div>
-                                                               </div>
-                                                            </div>
-                                                            <div class="elementor-element elementor-element-ff62ce7 elementor-column elementor-col-50 elementor-inner-column" data-id="ff62ce7" data-element_type="column">
-                                                               <div class="elementor-column-wrap  elementor-element-populated">
-                                                                  <div class="elementor-widget-wrap">
-                                                                     <div class="elementor-element elementor-element-5638fc68 elementor-widget elementor-widget-heading" data-id="5638fc68" data-element_type="widget" data-widget_type="heading.default">
-                                                                        <div class="elementor-widget-container">
-                                                                           <p class="elementor-heading-title elementor-size-default">Probot9 is a convention united with talented, restless and curious individuals passionate about expanding the borders of digital possibilities. PB9 always strive to surpass our clients’ expectations through its undying energy, continuous learning philosophy and collaborative work ethic.<br>The multi-faceted expertise of PB9 has every peak to take your results over new heights. </p>
-                                                                        </div>
-                                                                     </div>
-                                                                  </div>
-                                                               </div>
-                                                            </div>
-                                                         </div>
-                                                      </div>
-                                                   </section>
+                                
+                                
+                                                    
                                                 </div>
                                              </div>
                                           </div>
                                        </div>
                                     </div>
                                  </section>
-                                 <section class="elementor-element elementor-element-6e69c723 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="6e69c723" data-element_type="section">
-                                    <div class="elementor-container elementor-column-gap-default">
-                                       <div class="elementor-row">
-                                          <div class="elementor-element elementor-element-647bb4a6 elementor-column elementor-col-50 elementor-top-column" data-id="647bb4a6" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-                                             <div class="elementor-column-wrap  elementor-element-populated">
-                                                <div class="elementor-background-overlay"></div>
-                                                <div class="elementor-widget-wrap">
-                                                   <div class="elementor-element elementor-element-55f8ca4b pr-infobox-content-align-left elementor-widget elementor-widget-pr-infobox" data-id="55f8ca4b" data-element_type="widget" data-widget_type="pr-infobox.default">
-                                                      <div class="elementor-widget-container">
-<!--                                                         <a href="#"  >-->
-                                                            <div class="pr-infobox">
-                                                               <div class="infobox-content">
-                                                                  <h3 class="title">Teamwork</h3>
-                                                                  <p>Committed and creative</p>
-                                                               </div>
-                                                            </div>
-<!--                                                         </a>-->
-                                                      </div>
-                                                   </div>
-                                                </div>
-                                             </div>
-                                          </div>
-                                          <div class="elementor-element elementor-element-7fb11829 elementor-column elementor-col-50 elementor-top-column" data-id="7fb11829" data-element_type="column">
-                                             <div class="elementor-column-wrap  elementor-element-populated">
-                                                <div class="elementor-widget-wrap">
-                                                   <section class="elementor-element elementor-element-219c200e elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="219c200e" data-element_type="section">
-                                                      <div class="elementor-container elementor-column-gap-default">
-                                                         <div class="elementor-row">
-                                                            <div class="elementor-element elementor-element-12bec763 elementor-column elementor-col-100 elementor-inner-column" data-id="12bec763" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-                                                               <div class="elementor-column-wrap  elementor-element-populated">
-                                                                  <div class="elementor-background-overlay"></div>
-                                                                  <div class="elementor-widget-wrap">
-                                                                     <div class="elementor-element elementor-element-7a500139 pr-infobox-content-align-left elementor-widget elementor-widget-pr-infobox" data-id="7a500139" data-element_type="widget" data-widget_type="pr-infobox.default">
-                                                                        <div class="elementor-widget-container">
-<!--                                                                           <a href="#"  >-->
-                                                                              <div class="pr-infobox">
-                                                                                 <div class="infobox-content">
-                                                                                    <h3 class="title">Philosophy</h3>
-                                                                                    <p>Trust pays off</p>
-                                                                                 </div>
-                                                                              </div>
-<!--                                                                           </a>-->
-                                                                        </div>
-                                                                     </div>
-                                                                  </div>
-                                                               </div>
-                                                            </div>
-                                                         </div>
-                                                      </div>
-                                                   </section>
-                                                   <section class="elementor-element elementor-element-374f47a elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="374f47a" data-element_type="section">
-                                                      <div class="elementor-container elementor-column-gap-default">
-                                                         <div class="elementor-row">
-                                                            <div class="elementor-element elementor-element-3d10ddc7 elementor-column elementor-col-100 elementor-inner-column" data-id="3d10ddc7" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-                                                               <div class="elementor-column-wrap  elementor-element-populated">
-                                                                  <div class="elementor-background-overlay"></div>
-                                                                  <div class="elementor-widget-wrap">
-                                                                     <div class="elementor-element elementor-element-4bb327aa pr-infobox-content-align-left elementor-widget elementor-widget-pr-infobox" data-id="4bb327aa" data-element_type="widget" data-widget_type="pr-infobox.default">
-                                                                        <div class="elementor-widget-container">
-<!--                                                                           <a href="#"  >-->
-                                                                              <div class="pr-infobox">
-                                                                                 <div class="infobox-content">
-                                                                                    <h3 class="title">Office</h3>
-                                                                                    <p>Berlin, UK</p>
-                                                                                 </div>
-                                                                              </div>
-<!--                                                                           </a>-->
-                                                                        </div>
-                                                                     </div>
-                                                                  </div>
-                                                               </div>
-                                                            </div>
-                                                         </div>
-                                                      </div>
-                                                   </section>
-                                                </div>
-                                             </div>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </section>
-                                 <section class="elementor-element elementor-element-68e30235 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="68e30235" data-element_type="section">
-                                    <div class="elementor-container elementor-column-gap-default">
-                                       <div class="elementor-row">
-                                          <div class="elementor-element elementor-element-70ffb29c elementor-column elementor-col-33 elementor-top-column" data-id="70ffb29c" data-element_type="column">
-                                             <div class="elementor-column-wrap  elementor-element-populated">
-                                                <div class="elementor-widget-wrap">
-                                                   <div class="elementor-element elementor-element-4c53b7e5 elementor-widget elementor-widget-heading" data-id="4c53b7e5" data-element_type="widget" data-widget_type="heading.default">
-                                                      <div class="elementor-widget-container">
-                                                         <h2 class="elementor-heading-title elementor-size-default">More leads</h2>
-                                                      </div>
-                                                   </div>
-                                                   <div class="elementor-element elementor-element-2e38d4c9 elementor-widget elementor-widget-heading" data-id="2e38d4c9" data-element_type="widget" data-widget_type="heading.default">
-                                                      <div class="elementor-widget-container">
-                                                         <p class="elementor-heading-title elementor-size-default">Build a strong foundation to capitalize on every lead by ensuring every step of the customer journey is optimized for success, from digital advertising to organic search rankings, paid social to the website experience.</p>
-                                                      </div>
-                                                   </div>
-                                                </div>
-                                             </div>
-                                          </div>
-                                          <div class="elementor-element elementor-element-148e1ee0 elementor-column elementor-col-33 elementor-top-column" data-id="148e1ee0" data-element_type="column">
-                                             <div class="elementor-column-wrap  elementor-element-populated">
-                                                <div class="elementor-widget-wrap">
-                                                   <div class="elementor-element elementor-element-66fbcf10 elementor-widget elementor-widget-heading" data-id="66fbcf10" data-element_type="widget" data-widget_type="heading.default">
-                                                      <div class="elementor-widget-container">
-                                                         <h2 class="elementor-heading-title elementor-size-default">More Sales</h2>
-                                                      </div>
-                                                   </div>
-                                                   <div class="elementor-element elementor-element-1b2d7ab6 elementor-widget elementor-widget-heading" data-id="1b2d7ab6" data-element_type="widget" data-widget_type="heading.default">
-                                                      <div class="elementor-widget-container">
-                                                         <p class="elementor-heading-title elementor-size-default">See direct results from your marketing spend by breaking down silos and integrating the sales funnel. With proven success in the eCommerce space, our team of visionary leaders will be your partner in the pursuit of growth.</p>
-                                                      </div>
-                                                   </div>
-                                                </div>
-                                             </div>
-                                          </div>
-                                          <div class="elementor-element elementor-element-3416fdf5 elementor-column elementor-col-33 elementor-top-column" data-id="3416fdf5" data-element_type="column">
-                                             <div class="elementor-column-wrap  elementor-element-populated">
-                                                <div class="elementor-widget-wrap">
-                                                   <div class="elementor-element elementor-element-7c4b49b2 elementor-widget elementor-widget-heading" data-id="7c4b49b2" data-element_type="widget" data-widget_type="heading.default">
-                                                      <div class="elementor-widget-container">
-                                                         <h2 class="elementor-heading-title elementor-size-default">More Growth</h2>
-                                                      </div>
-                                                   </div>
-                                                   <div class="elementor-element elementor-element-5341122c elementor-widget elementor-widget-heading" data-id="5341122c" data-element_type="widget" data-widget_type="heading.default">
-                                                      <div class="elementor-widget-container">
-                                                         <p class="elementor-heading-title elementor-size-default">From social media presence to brand identity, build awareness and stand out in the market with goal-focused strategy, performance creative, and messaging that transforms impressions to loyalists.</p>
-                                                      </div>
-                                                   </div>
-                                                </div>
-                                             </div>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </section>
+                                  
                                  
                                  <section class="elementor-element elementor-element-6eb17df elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="6eb17df" data-element_type="section">
                                     <div class="elementor-container elementor-column-gap-default">
@@ -1019,42 +695,7 @@
             </div>
          </div>
 
-         <div class="side-bars" style="z-index: 999;">
-              
-               <div class="s-bar clearfix clerfix-black" style="right: 0px;">
-                  <a href="#" class="mod_an">      
-                     <span class="pnumlive">Get a Quote</span>
-                  </a>
-               </div>
-               <div class="s-bar clearfix clerfix-org" style="right: 0px;">
-                  <a href="#" class="mod_anb">   
-                     <span class="pnumlive">Shop Now</span>
-                  </a>
-               </div>
-               <div class="s-bar clearfix clerfix-black" style="right: 0px;">
-                  <a href="#" class="mod_an">   
-                     <span class="pnumlive">Get a Quote</span>
-                  </a>
-               </div>
-               <div class="s-bar clearfix clerfix-org" style="right: 0px;">
-                  <a href="#" class="mod_anb">   
-                     <span class="pnumlive">Project Manage</span>
-                  </a>
-               </div> 
- 
-
-
-
-
-
-               <!-- <div class="s-bar clearfix" style="right: 0px;">
-                  <a href="javascript:;" target="_self" title="Live Chat" class="chat">
-                     <div class="chat-spr"><i class="fas fa-comment-alt"></i></div>
-                     <p>Get Advice from Expert</p>
-                     <span class="pnumlive">Live CHAT</span>
-                  </a>
-               </div> -->
-            </div>
+          <?php include('widgets/side-btns.php')?> 
          <!-- site-footer -->
          
          <?php include('widgets/footer.php')?>

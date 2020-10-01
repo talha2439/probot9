@@ -143,3 +143,33 @@ UIkit.util.on(off_canvas, 'hidden', function () {
 });
 
 })(jQuery);
+
+/*<dd>*/
+function showdd(){
+    var element = document.getElementById("ddzero");
+    element.classList.remove("ddcellzero");
+
+     element.classList.add("ddcell1");
+
+     document.getElementById('xtra').setAttribute('onclick','removedd()')
+}
+function removedd(){
+    var element = document.getElementById("ddzero");
+    element.classList.remove("ddcell1");
+    element.classList.add("ddcellzero");
+}
+
+function showdd2(){
+    var element = document.getElementById("ddzero2");
+    element.classList.remove("ddcellzero2");
+
+     element.classList.add("ddcell2");
+
+     document.getElementById('xtra2').setAttribute('onclick','removedd2()')
+}
+function removedd2(){
+    var element = document.getElementById("ddzero2");
+    element.classList.remove("ddcell2");
+    element.classList.add("ddcellzero2");
+}
+

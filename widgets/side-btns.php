@@ -1,22 +1,22 @@
 <div class="side-bars" style="z-index: 999;">
               
                <div class="s-bar clearfix clerfix-black" style="right: 0px;">
-                  <a href="http://localhost:88/probot2/get-a-quote">      
+                  <a href="get-a-quote.php">      
                      <span class="pnumlive">Get a Quote</span>
                   </a>
                </div>
                <div class="s-bar clearfix clerfix-org" style="right: 0px;">
-                  <a href="http://localhost:88/probot2/shop-now">   
+                  <a href="shop-now.php">   
                      <span class="pnumlive">Shop Now</span>
                   </a>
                </div>
                <div class="s-bar clearfix clerfix-black" style="right: 0px;">
-                  <a href="http://localhost:88/probot2/retainer-package">   
+                  <a href="retainer-package.php">   
                      <span class="pnumlive">Retainer Package</span>
                   </a>
                </div>
                <div class="s-bar clearfix clerfix-org" style="right: 0px;">
-                  <a href="http://localhost:88/probot2/web-package">   
+                  <a href="web-package.php">   
                      <span class="pnumlive">Web Package</span>
                   </a>
                </div> 

@@ -13,7 +13,7 @@
                                              <div class="elementor-element elementor-element-523c7d3 elementor-widget elementor-widget-heading" data-id="523c7d3" data-element_type="widget" data-widget_type="heading.default">
                                                 <div class="elementor-widget-container">
 <!--                                                   <h2 class="elementor-heading-title elementor-size-default"><a href="#">DEMO.</a></h2>-->
-                                                   <a href="#"><img src="images/header_logo.png" /></a>
+                                                   <a href="home.php"><img src="images/header_logo.png" /></a>
                                                 </div>
                                              </div>
                                           </div>
@@ -29,7 +29,7 @@
                                                         <ul data-uk-scrollspy-nav="closest: li; scroll: false" class="pr-main-menu" id="menu-onepage-menu">
                                                            <li id="menu-item-434" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-434"><a href="#pr_hero">Home</a></li>
                                                            <li id="menu-item-43" class="dropbtn2 menu-item menu-item-type-custom menu-item-object-custom menu-item-43">  
-                                                            <a  href="http://localhost:88/probot2/services" >Services</a>  
+                                                            <a  href="services.php" >Services</a>  
                                                             <ul class="dropdown-content2">
                                                                 <li style="
                                                                   text-align: left;
@@ -45,7 +45,7 @@
                                                             "><a href="#">Animations</a></li>
                                                             </ul>
                                                            </li>   
-                                                           <li id="menu-item-44" class="dropbtn1 menu-item menu-item-type-custom menu-item-object-custom menu-item-44"><a href="#pr_works">Hosting</a>
+                                                           <li id="menu-item-44" class="dropbtn1 menu-item menu-item-type-custom menu-item-object-custom menu-item-44"><a href="services.php">Hosting</a>
                                                            <ul class="dropdown-content1">
                                                                 <li style="
                                                                   text-align: left;
@@ -109,7 +109,7 @@
                                                    <nav itemscope="itemscope" class="pr-nav-primary" aria-label="Elementor Menu">
                                                       <ul data-uk-scrollspy-nav="closest: li; scroll: false" class="pr-main-menu" id="menu-onepage-menu-1">
                                                          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-434"><a href="#pr_hero">Home</a></li>
-                                                         <li class="drop_btn_black menu-item menu-item-type-custom menu-item-object-custom menu-item-43"><a href="http://localhost:88/probot2/services">Services</a>
+                                                         <li class="drop_btn_black menu-item menu-item-type-custom menu-item-object-custom menu-item-43"><a href="services.php">Services</a>
                                                           <ul class="dropdown-content-black">
                                                                 <li style="
                                                                   text-align: left;
@@ -203,7 +203,7 @@
                <nav class="menu" data-uk-scrollspy-nav="offset: 0; closest: li; scroll: false">
                   <ul data-uk-scrollspy="target: > li; cls:uk-animation-slide-right; delay: 100; repeat: true;" class="ul-menu" id="menu-onepage-menu-2">
                      <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-434"><a href="#pr_hero">Home</a></li>
-                     <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-43 dropbtn"><a href="http://localhost:88/probot2/services" onclick="showdd()" id="xtra">Services</a>
+                     <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-43 dropbtn"><a href="services.php" onclick="showdd()" id="xtra">Services</a>
                       <ul class="ddcellzero" id="ddzero">
                         <li><a href="#">Logo Designing</a></li>
                         <li><a href="#">Web Designing</a></li>

@@ -16,7 +16,8 @@
          .center {
 position:inherit;
 display: inline;
-left: 75%;
+left: 90%;
+margin-left: 45px;
 top: 50%;
 }
       </style>
@@ -56,10 +57,10 @@ top: 50%;
                                                   
                                                   <!----- mai yahan pa ta--->
                                                   <div class="center">
-                                                   <img src="images/SERVICES.png" alt="services image">
+                                                   <img src="images/probot hosting.png" alt="hosting image">
                                                    </div>
                                                       <div class="elementor-widget-container" style="margin-bottom: 25px">
-                                                         <h2 class="elementor-heading-title elementor-size-default">Services.</h2>
+                                                         <h2 class="elementor-heading-title elementor-size-default">HOSTING.</h2>
                                                       </div>
                                                    </div>
                                                 </div>
@@ -98,17 +99,17 @@ top: 50%;
                                                    </div>
                                                    <div class="elementor-element elementor-element-36c93178 elementor-widget elementor-widget-heading" data-id="36c93178" data-element_type="widget" data-widget_type="heading.default">
                                                       <div class="elementor-widget-container">
-                                                         <h2 style="font-size: 28px;font-weight: bold;">WEB DEVELOPMENT.</h2>
+                                                         <h2 style="font-size: 28px;font-weight: bold;">Hosting Solutions</h2>
                                                       </div>
                                                    </div>
-                                                   <div class="elementor-element elementor-element-423481d9 elementor-widget elementor-widget-heading" data-id="423481d9" data-element_type="widget" data-widget_type="heading.default">
+                                                   <!-- <div class="elementor-element elementor-element-423481d9 elementor-widget elementor-widget-heading" data-id="423481d9" data-element_type="widget" data-widget_type="heading.default">
                                                       <div class="elementor-widget-container">
                                                          <h4 class="elementor-heading-title elementor-size-default">WE'RE MORE THAN A DIGITAL AGENCY</h4>
                                                       </div>
-                                                   </div>
+                                                   </div> -->
                                                    <div class="elementor-element elementor-element-11b52fd elementor-widget elementor-widget-heading" data-id="11b52fd" data-element_type="widget" data-widget_type="heading.default">
                                                       <div class="elementor-widget-container">
-                                                         <p style="text-align: justify;font-size: 18px;">While planing every or all of web development projects, Probot9 implements the user interface design with a vital focus on usability. What really matters for certain type of audience, equally matters for probot9.</p>
+                                                         <p style="text-align: justify;font-size: 18px;">Probot9 offers multiple hosting options, full managed as well as user managed. Our experts help you choose best of the hosting solution according to your requirements. Hosting just doesn’t mean storage, it has ample aspects to be covered as per requirements and to follow industry standards..</p>
                                                       </div>
                                                    </div>
                                                    <div class="elementor-element elementor-element-d022de1 elementor-widget elementor-widget-divider" data-id="d022de1" data-element_type="widget" data-widget_type="divider.default">
@@ -146,17 +147,17 @@ top: 50%;
                                                    </div>
                                                    <div class="elementor-element elementor-element-36c93178 elementor-widget elementor-widget-heading" data-id="36c93178" data-element_type="widget" data-widget_type="heading.default">
                                                       <div class="elementor-widget-container">
-                                                         <h2 class="elementor-heading-title elementor-size-default">WORDPRESS.</h2>
+                                                         <h2 class="elementor-heading-title elementor-size-default">cPanel</h2>
                                                       </div>
                                                    </div>
-                                                   <div class="elementor-element elementor-element-423481d9 elementor-widget elementor-widget-heading" data-id="423481d9" data-element_type="widget" data-widget_type="heading.default">
+                                                   <!-- <div class="elementor-element elementor-element-423481d9 elementor-widget elementor-widget-heading" data-id="423481d9" data-element_type="widget" data-widget_type="heading.default">
                                                       <div class="elementor-widget-container">
                                                          <h4 class="elementor-heading-title elementor-size-default">WE'RE MORE THAN A DIGITAL AGENCY</h4>
                                                       </div>
-                                                   </div>
+                                                   </div> -->
                                                    <div class="elementor-element elementor-element-11b52fd elementor-widget elementor-widget-heading" data-id="11b52fd" data-element_type="widget" data-widget_type="heading.default">
                                                       <div class="elementor-widget-container">
-                                                         <p style="text-align: justify;font-size: 18px;">Currently one of the most SEO-friendly web platforms out there is Wordpress. Probot9 redesigns website, create brand new websites or optimize existing sites for mobiles & tablets.</p>
+                                                         <p style="text-align: justify;font-size: 18px;">Probot9 provide and train customers to use cPanel for simplifying website and server management. It allows user to publish websites on their own, manage and organize web files, create multiple email accounts, and more.</p>
                                                       </div>
                                                    </div>
                                                    <div class="elementor-element elementor-element-d022de1 elementor-widget elementor-widget-divider" data-id="d022de1" data-element_type="widget" data-widget_type="divider.default">
@@ -219,17 +220,17 @@ top: 50%;
                                                    </div>
                                                    <div class="elementor-element elementor-element-36c93178 elementor-widget elementor-widget-heading" data-id="36c93178" data-element_type="widget" data-widget_type="heading.default">
                                                       <div class="elementor-widget-container">
-                                                         <h2 class="elementor-heading-title elementor-size-default">Mobile First.</h2>
+                                                         <h2 class="elementor-heading-title elementor-size-default">Scalability</h2>
                                                       </div>
                                                    </div>
-                                                   <div class="elementor-element elementor-element-423481d9 elementor-widget elementor-widget-heading" data-id="423481d9" data-element_type="widget" data-widget_type="heading.default">
+                                                   <!-- <div class="elementor-element elementor-element-423481d9 elementor-widget elementor-widget-heading" data-id="423481d9" data-element_type="widget" data-widget_type="heading.default">
                                                       <div class="elementor-widget-container">
                                                          <h4 class="elementor-heading-title elementor-size-default">WE'RE MORE THAN A DIGITAL AGENCY</h4>
                                                       </div>
-                                                   </div>
+                                                   </div> -->
                                                    <div class="elementor-element elementor-element-11b52fd elementor-widget elementor-widget-heading" data-id="11b52fd" data-element_type="widget" data-widget_type="heading.default">
                                                       <div class="elementor-widget-container">
-                                                         <p style="text-align: justify;font-size: 18px;">Responsive website is a must for the hour. Probot9 has the patience and expertise to make exclusive as well as alternate mobile websites. The websites developed by probot9 are fully responsive, mobile-friendly, all-browser compatible, and platform-independent.</p>
+                                                         <p style="text-align: justify;font-size: 18px;">It is simple to start off your hosting plan according to your current needs and move later to more powerful options gradually. When your website grows, you can always opt for customized hosting upgrade options available at Probot9 in just a few clicks away..</p>
                                                       </div>
                                                    </div>
                                                    <div class="elementor-element elementor-element-d022de1 elementor-widget elementor-widget-divider" data-id="d022de1" data-element_type="widget" data-widget_type="divider.default">
@@ -279,17 +280,17 @@ top: 50%;
                                                    </div>
                                                    <div class="elementor-element elementor-element-36c93178 elementor-widget elementor-widget-heading" data-id="36c93178" data-element_type="widget" data-widget_type="heading.default">
                                                       <div class="elementor-widget-container">
-                                                         <h2 class="elementor-heading-title elementor-size-default">LANDING PAGES:</h2>
+                                                         <h2 class="elementor-heading-title elementor-size-default">SSL Certificates</h2>
                                                       </div>
                                                    </div>
-                                                   <div class="elementor-element elementor-element-423481d9 elementor-widget elementor-widget-heading" data-id="423481d9" data-element_type="widget" data-widget_type="heading.default">
+                                                   <!-- <div class="elementor-element elementor-element-423481d9 elementor-widget elementor-widget-heading" data-id="423481d9" data-element_type="widget" data-widget_type="heading.default">
                                                       <div class="elementor-widget-container">
                                                          <h4 class="elementor-heading-title elementor-size-default">WE'RE MORE THAN A DIGITAL AGENCY</h4>
                                                       </div>
-                                                   </div>
+                                                   </div> -->
                                                    <div class="elementor-element elementor-element-11b52fd elementor-widget elementor-widget-heading" data-id="11b52fd" data-element_type="widget" data-widget_type="heading.default">
                                                       <div class="elementor-widget-container">
-                                                         <p style="text-align: justify;font-size: 18px;">Probot9 also offers landing page development and landing page split tests to optimize client's advertising efforts in combination with SEM campaign management.</p>
+                                                         <p style="text-align: justify;font-size: 18px;">SSL Certificate is just not security concern anymore, it also makes the visitor comfortable while surfing any website. It is about the impact on the user of your web presence and its significance. Technologically, SSL Certificate helps provide secure the connection between websites and the visitors. This helps sensitive data safeguarded and keeps personal information, e-commerce transactions, and other sources intact.</p>
                                                       </div>
                                                    </div>
                                                    <div class="elementor-element elementor-element-d022de1 elementor-widget elementor-widget-divider" data-id="d022de1" data-element_type="widget" data-widget_type="divider.default">
@@ -310,188 +311,7 @@ top: 50%;
                                           </div>
                                        </div>
                                     </div>
-                                     <!-- Serviec Five -->
-                                     <div class="elementor-container elementor-column-gap-default" style="margin-bottom: 50px;"> 
-                                       <div class="elementor-row"> 
-                                          <!-- <div class="elementor-element elementor-element-469c992a elementor-column elementor-col-50 elementor-top-column" data-id="469c992a" data-element_type="column">
-                                             <div class="elementor-column-wrap  elementor-element-populated">
-                                                <div class="elementor-widget-wrap">
-                                                   <div class="elementor-element elementor-element-27d69e82 r2__shape elementor-widget elementor-widget-spacer" data-id="27d69e82" data-element_type="widget" data-widget_type="spacer.default">
-                                                      <div class="backng_img">
-                                                         <div class="elementor-spacer">
-                                                            <div class="elementor-spacer-inner"></div>
-                                                         </div>
-                                                      </div>
-                                                   </div>
-                                                </div>
-                                             </div>
-                                          </div> -->
-                                          <div class="elementor-element elementor-element-4eee5346 elementor-column elementor-col-50 elementor-top-column" data-id="4eee5346" data-element_type="column">
-                                             <div class="elementor-column-wrap  elementor-element-populated">
-                                                <div class="elementor-widget-wrap">
-                                                   <div class="elementor-element elementor-element-337650b7 elementor-widget elementor-widget-divider" data-id="337650b7" data-element_type="widget" data-widget_type="divider.default">
-                                                      <div class="elementor-widget-container">
-                                                         <div class="elementor-divider">
-                                                            <span class="elementor-divider-separator">
-                                                            </span>
-                                                         </div>
-                                                      </div>
-                                                   </div>
-                                                   <div class="elementor-element elementor-element-36c93178 elementor-widget elementor-widget-heading" data-id="36c93178" data-element_type="widget" data-widget_type="heading.default">
-                                                      <div class="elementor-widget-container">
-                                                         <h2 class="elementor-heading-title elementor-size-default">ECOMMERCE:</h2>
-                                                      </div>
-                                                   </div>
-                                                   <div class="elementor-element elementor-element-423481d9 elementor-widget elementor-widget-heading" data-id="423481d9" data-element_type="widget" data-widget_type="heading.default">
-                                                      <div class="elementor-widget-container">
-                                                         <h4 class="elementor-heading-title elementor-size-default">WE'RE MORE THAN A DIGITAL AGENCY</h4>
-                                                      </div>
-                                                   </div>
-                                                   <div class="elementor-element elementor-element-11b52fd elementor-widget elementor-widget-heading" data-id="11b52fd" data-element_type="widget" data-widget_type="heading.default">
-                                                      <div class="elementor-widget-container">
-                                                         <p style="text-align: justify;font-size: 18px;">Probot9 help and encourage clients to start selling services and products online, through tech tools and promotional nuisance. Integrating their payment systems and creating a stock management system for all their online sales is also the part of services.</p>
-                                                      </div>
-                                                   </div>
-                                                   <div class="elementor-element elementor-element-d022de1 elementor-widget elementor-widget-divider" data-id="d022de1" data-element_type="widget" data-widget_type="divider.default">
-                                                      <div class="elementor-widget-container">
-                                                         <div class="elementor-divider">
-                                                            <span class="elementor-divider-separator">
-                                                            </span>
-                                                         </div>
-                                                      </div>
-                                                   </div>
-                                                   <div class="elementor-element elementor-element-522aaec0 elementor-widget elementor-widget-heading" data-id="522aaec0" data-element_type="widget" data-widget_type="heading.default">
-                                                      <!-- <div class="elementor-widget-container">
-                                                         <h6 class="elementor-heading-title elementor-size-default">ARON SMITH, UX DESIGNER</h6>
-                                                      </div> -->
-                                                   </div>
-                                                </div>
-                                             </div>
-                                          </div>
-                                       </div>
-                                    </div>
-                                     <!-- Serviec Six -->
-                                     <div class="elementor-container elementor-column-gap-default" style="margin-bottom: 50px;"> 
-                                       <div class="elementor-row"> 
-                                          <!-- <div class="elementor-element elementor-element-469c992a elementor-column elementor-col-50 elementor-top-column" data-id="469c992a" data-element_type="column">
-                                             <div class="elementor-column-wrap  elementor-element-populated">
-                                                <div class="elementor-widget-wrap">
-                                                   <div class="elementor-element elementor-element-27d69e82 r2__shape elementor-widget elementor-widget-spacer" data-id="27d69e82" data-element_type="widget" data-widget_type="spacer.default">
-                                                      <div class="backng_img">
-                                                         <div class="elementor-spacer">
-                                                            <div class="elementor-spacer-inner"></div>
-                                                         </div>
-                                                      </div>
-                                                   </div>
-                                                </div>
-                                             </div>
-                                          </div> -->
-                                          <div class="elementor-element elementor-element-4eee5346 elementor-column elementor-col-50 elementor-top-column" data-id="4eee5346" data-element_type="column">
-                                             <div class="elementor-column-wrap  elementor-element-populated">
-                                                <div class="elementor-widget-wrap">
-                                                   <div class="elementor-element elementor-element-337650b7 elementor-widget elementor-widget-divider" data-id="337650b7" data-element_type="widget" data-widget_type="divider.default">
-                                                      <div class="elementor-widget-container">
-                                                         <div class="elementor-divider">
-                                                            <span class="elementor-divider-separator">
-                                                            </span>
-                                                         </div>
-                                                      </div>
-                                                   </div>
-                                                   <div class="elementor-element elementor-element-36c93178 elementor-widget elementor-widget-heading" data-id="36c93178" data-element_type="widget" data-widget_type="heading.default">
-                                                      <div class="elementor-widget-container">
-                                                         <h2 class="elementor-heading-title elementor-size-default">Social Media Marketing (SMM)</h2>
-                                                      </div>
-                                                   </div>
-                                                   <div class="elementor-element elementor-element-423481d9 elementor-widget elementor-widget-heading" data-id="423481d9" data-element_type="widget" data-widget_type="heading.default">
-                                                      <div class="elementor-widget-container">
-                                                         <h4 class="elementor-heading-title elementor-size-default">WE'RE MORE THAN A DIGITAL AGENCY</h4>
-                                                      </div>
-                                                   </div>
-                                                   <div class="elementor-element elementor-element-11b52fd elementor-widget elementor-widget-heading" data-id="11b52fd" data-element_type="widget" data-widget_type="heading.default">
-                                                      <div class="elementor-widget-container">
-                                                         <p style="text-align: justify;font-size: 18px;">Growth of each and every client, is the vision of probot9.committed to helping accelerate your business growth and gaining a good online reputation with the unique Social Media Marketing strategies. Probot9's team always tries to add new tectics and techniques to get the best result for your brands. We are leading one of the leading Social Media Management company which extends comprehensive and reliable services for all business’ sizes.</p>
-                                                      </div>
-                                                   </div>
-                                                   <div class="elementor-element elementor-element-d022de1 elementor-widget elementor-widget-divider" data-id="d022de1" data-element_type="widget" data-widget_type="divider.default">
-                                                      <div class="elementor-widget-container">
-                                                         <div class="elementor-divider">
-                                                            <span class="elementor-divider-separator">
-                                                            </span>
-                                                         </div>
-                                                      </div>
-                                                   </div>
-                                                   <div class="elementor-element elementor-element-522aaec0 elementor-widget elementor-widget-heading" data-id="522aaec0" data-element_type="widget" data-widget_type="heading.default">
-                                                      <!-- <div class="elementor-widget-container">
-                                                         <h6 class="elementor-heading-title elementor-size-default">ARON SMITH, UX DESIGNER</h6>
-                                                      </div> -->
-                                                   </div>
-                                                </div>
-                                             </div>
-                                          </div>
-                                       </div>
-                                    </div>
-
-<!-- Serviec Seven -->
-                                    <div class="elementor-container elementor-column-gap-default" style="margin-bottom: 50px;"> 
-                                       <div class="elementor-row"> 
-                                          <!-- <div class="elementor-element elementor-element-469c992a elementor-column elementor-col-50 elementor-top-column" data-id="469c992a" data-element_type="column">
-                                             <div class="elementor-column-wrap  elementor-element-populated">
-                                                <div class="elementor-widget-wrap">
-                                                   <div class="elementor-element elementor-element-27d69e82 r2__shape elementor-widget elementor-widget-spacer" data-id="27d69e82" data-element_type="widget" data-widget_type="spacer.default">
-                                                      <div class="backng_img">
-                                                         <div class="elementor-spacer">
-                                                            <div class="elementor-spacer-inner"></div>
-                                                         </div>
-                                                      </div>
-                                                   </div>
-                                                </div>
-                                             </div>
-                                          </div> -->
-                                          <div class="elementor-element elementor-element-4eee5346 elementor-column elementor-col-50 elementor-top-column" data-id="4eee5346" data-element_type="column">
-                                             <div class="elementor-column-wrap  elementor-element-populated">
-                                                <div class="elementor-widget-wrap">
-                                                   <div class="elementor-element elementor-element-337650b7 elementor-widget elementor-widget-divider" data-id="337650b7" data-element_type="widget" data-widget_type="divider.default">
-                                                      <div class="elementor-widget-container">
-                                                         <div class="elementor-divider">
-                                                            <span class="elementor-divider-separator">
-                                                            </span>
-                                                         </div>
-                                                      </div>
-                                                   </div>
-                                                   <div class="elementor-element elementor-element-36c93178 elementor-widget elementor-widget-heading" data-id="36c93178" data-element_type="widget" data-widget_type="heading.default">
-                                                      <div class="elementor-widget-container">
-                                                         <h2 class="elementor-heading-title elementor-size-default">Logo Designing:</h2>
-                                                      </div>
-                                                   </div>
-                                                   <div class="elementor-element elementor-element-423481d9 elementor-widget elementor-widget-heading" data-id="423481d9" data-element_type="widget" data-widget_type="heading.default">
-                                                      <div class="elementor-widget-container">
-                                                         <h4 class="elementor-heading-title elementor-size-default">WE'RE MORE THAN A DIGITAL AGENCY</h4>
-                                                      </div>
-                                                   </div>
-                                                   <div class="elementor-element elementor-element-11b52fd elementor-widget elementor-widget-heading" data-id="11b52fd" data-element_type="widget" data-widget_type="heading.default">
-                                                      <div class="elementor-widget-container">
-                                                         <p style="text-align: justify;font-size: 18px;">Probot9 believes in converting your visions into reality. Innovation and creativity is the ultimate forte of probot9. Never settle for any less, when you are with Probot9 to create your Logo Design and brand identity.</p>
-                                                      </div>
-                                                   </div>
-                                                   <div class="elementor-element elementor-element-d022de1 elementor-widget elementor-widget-divider" data-id="d022de1" data-element_type="widget" data-widget_type="divider.default">
-                                                      <div class="elementor-widget-container">
-                                                         <div class="elementor-divider">
-                                                            <span class="elementor-divider-separator">
-                                                            </span>
-                                                         </div>
-                                                      </div>
-                                                   </div>
-                                                   <div class="elementor-element elementor-element-522aaec0 elementor-widget elementor-widget-heading" data-id="522aaec0" data-element_type="widget" data-widget_type="heading.default">
-                                                      <!-- <div class="elementor-widget-container">
-                                                         <h6 class="elementor-heading-title elementor-size-default">ARON SMITH, UX DESIGNER</h6>
-                                                      </div> -->
-                                                   </div>
-                                                </div>
-                                             </div>
-                                          </div>
-                                       </div>
-                                    </div>
-
+                                     
                                  </section>
 
                                  <!-- questions button button -->

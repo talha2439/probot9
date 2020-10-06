@@ -27,10 +27,10 @@
                                                   <div class="pr-primary-navigation pr_nav_anime_br">
                                                      <nav itemtype="http://schema.org/SiteNavigationElement" itemscope="itemscope" class="pr-nav-primary" aria-label="Elementor Menu">
                                                         <ul data-uk-scrollspy-nav="closest: li; scroll: false" class="pr-main-menu" id="menu-onepage-menu">
-                                                           <li id="menu-item-434" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-434"><a href="#pr_hero">Home</a></li>
+                                                           <li id="menu-item-434" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-434"><a href="home.php">Home</a></li>
                                                            <li id="menu-item-43" class="dropbtn2 menu-item menu-item-type-custom menu-item-object-custom menu-item-43">  
                                                             <a  href="services.php" >Services</a>  
-                                                            <ul class="dropdown-content2">
+                                                            <!-- <ul class="dropdown-content2">
                                                                 <li style="
                                                                   text-align: left;
                                                                   padding: 20px 10px;
@@ -43,10 +43,10 @@
                                                               text-align: left;
                                                               padding: 20px 10px;
                                                             "><a href="#">Animations</a></li>
-                                                            </ul>
+                                                            </ul> -->
                                                            </li>   
-                                                           <li id="menu-item-44" class="dropbtn1 menu-item menu-item-type-custom menu-item-object-custom menu-item-44"><a href="services.php">Hosting</a>
-                                                           <ul class="dropdown-content1">
+                                                           <li id="menu-item-44" class="dropbtn1 menu-item menu-item-type-custom menu-item-object-custom menu-item-44"><a href="Hosting.php">Hosting</a>
+                                                           <!-- <ul class="dropdown-content1">
                                                                 <li style="
                                                                   text-align: left;
                                                                   padding: 20px 10px;
@@ -59,9 +59,9 @@
                                                               text-align: left;
                                                               padding: 20px 10px;
                                                             "><a href="#">Package 3</a></li>
-                                                            </ul>
+                                                            </ul> -->
                                                           </li> 
-                                                           <li id="menu-item-45" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-45"><a href="#pr_about">Blog</a></li>
+                                                           <!-- <li id="menu-item-45" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-45"><a href="#pr_about">Blog</a></li> -->
                                                            <li id="menu-item-46" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-46"><a href="#pr_client">About</a></li>
 <!--                                                           <li id="menu-item-47" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-47"><a href="#pr_blog">Blog</a></li>-->
                                                            <li id="menu-item-48" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-48"><a data-uk-toggle="target: #pr-modal-section-74cfe66">Contact</a></li>
@@ -108,9 +108,9 @@
                                                 <div class="pr-primary-navigation pr_nav_anime_br">
                                                    <nav itemscope="itemscope" class="pr-nav-primary" aria-label="Elementor Menu">
                                                       <ul data-uk-scrollspy-nav="closest: li; scroll: false" class="pr-main-menu" id="menu-onepage-menu-1">
-                                                         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-434"><a href="#pr_hero">Home</a></li>
+                                                         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-434"><a href="home.php">Home</a></li>
                                                          <li class="drop_btn_black menu-item menu-item-type-custom menu-item-object-custom menu-item-43"><a href="services.php">Services</a>
-                                                          <ul class="dropdown-content-black">
+                                                          <!-- <ul class="dropdown-content-black">
                                                                 <li style="
                                                                   text-align: left;
                                                                   padding: 20px 10px;
@@ -123,7 +123,7 @@
                                                               text-align: left;
                                                               padding: 20px 10px;
                                                             "><a href="#">Animations</a></li>
-                                                            </ul>
+                                                            </ul> -->
                                                          </li>
 
                                                            
@@ -204,19 +204,19 @@
                   <ul data-uk-scrollspy="target: > li; cls:uk-animation-slide-right; delay: 100; repeat: true;" class="ul-menu" id="menu-onepage-menu-2">
                      <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-434"><a href="#pr_hero">Home</a></li>
                      <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-43 dropbtn"><a href="services.php" onclick="showdd()" id="xtra">Services</a>
-                      <ul class="ddcellzero" id="ddzero">
+                      <!-- <ul class="ddcellzero" id="ddzero">
                         <li><a href="#">Logo Designing</a></li>
                         <li><a href="#">Web Designing</a></li>
-                        <li><a href="#">Animation</a></li>
-                      </ul>
+                        <li><a href="#">Animation</a></li> -->
+                      </ul> -->
                      </li>
 
                      <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-44"><a href="#pr_works" onclick="showdd2()" id="xtra2" >Hosting</a>
-                      <ul class="ddcellzero2" id="ddzero2">
+                      <!-- <ul class="ddcellzero2" id="ddzero2">
                         <li><a href="#">Package 1</a></li>
                         <li><a href="#">Package 2</a></li>
                         <li><a href="#">Package 3</a></li>
-                      </ul>
+                      </ul> -->
                      </li>
                      <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-45"><a href="#pr_about">Blog</a></li>
                      <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-46"><a href="#pr_client">About</a></li>

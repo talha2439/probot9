@@ -82,7 +82,8 @@
                                                                            <div class="elementor-element elementor-element-71a09f8 elementor-widget elementor-widget-text-editor" data-id="71a09f8" data-element_type="widget" data-widget_type="text-editor.default">
                                                                               <div class="elementor-widget-container">
                                                                                  <div class="elementor-text-editor elementor-clearfix">
-                                                                                    <p>+92 313 1705111</p>
+                                                                                    <p>+92 318 2333845</p><br>
+                                                                                    <p>+92 213-4981712</p>
                                                                                  </div>
                                                                               </div>
                                                                            </div>
@@ -94,7 +95,7 @@
                                                                            <div class="elementor-element elementor-element-71a09f8 elementor-widget elementor-widget-text-editor" data-id="71a09f8" data-element_type="widget" data-widget_type="text-editor.default">
                                                                               <div class="elementor-widget-container">
                                                                                  <div class="elementor-text-editor elementor-clearfix">
-                                                                                    <p>G-9 Columbus Towers Main Clifton Road, Karachi</p>
+                                                                                    <p>Off #507, 5th floor, RBS Mall, Main Universty Road, Karachi.</p>
                                                                                  </div>
                                                                               </div>
                                                                            </div>
@@ -183,8 +184,9 @@
                                        <div class="pr-infobox">
                                           <div class="infobox-content">
                                              <h3 class="title">Karachi.</h3>
-                                             <p>+92 313 1705111</p>
-                                             <p>G-9 Columbus Towers Main Clifton Road,  Karachi</p>
+                                             <p>+92 318 2333845</p>
+                                             <p>+92 213-4981712</p>
+                                             <p>Off #507, 5th floor, RBS Mall, Main Universty Road, Karachi.</p>
                                           </div>
                                        </div>
                                     </a>

@@ -1,4 +1,4 @@
-<div class="side-bars" style="z-index: 999;">
+<!-- <div class="side-bars" style="z-index: 999;">
               
                <div class="s-bar clearfix clerfix-black" style="right: 0px;">
                   <a href="get-a-quote.php">      
@@ -20,7 +20,7 @@
                      <span class="pnumlive">Web Package</span>
                   </a>
                </div> 
- 
+               </div> -->
 
 
 
@@ -33,4 +33,4 @@
                      <span class="pnumlive">Live CHAT</span>
                   </a>
                </div> -->
-            </div>
+            

@@ -16,6 +16,28 @@
       
        
       <script type='text/javascript' src='js/jquery4a5f.js' id='jquery-js'></script>  
+
+      <style>
+         .center {
+
+display:inline;
+left: 100%;
+top: 50%;
+padding:35px;
+margin:40px 40px 40px 40px;
+}
+#list {
+  column-count: 3;
+  column-fill: balance;
+}
+
+#list ul {
+  margin: 0;
+  display: block;
+  font-size: 20px;
+  font-weight: bold;
+}
+      </style>
        
    </head>
    <body>
@@ -65,7 +87,7 @@
                                                                </div>
                                                             </div> 
                                                    </section> 
-
+                                                   <!-----About Us start---->
                                                       <section class="elementor-element elementor-element-3b3840fc pr__section elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="3b3840fc" data-element_type="section" id="pr_client">
                                                          <div class="elementor-container elementor-column-gap-default">
                                                             <div class="elementor-row">
@@ -108,7 +130,7 @@
                                                                         </div>
                                                                         <div class="elementor-element elementor-element-11b52fd elementor-widget elementor-widget-heading" data-id="11b52fd" data-element_type="widget" data-widget_type="heading.default">
                                                                            <div class="elementor-widget-container">
-                                                                              <p class="elementor-heading-title elementor-size-default">Probot9 is a convention united with talented, restless and curious individuals passionate about expanding the borders of digital possibilities. PB9 always strive to surpass our clients’ expectations through its undying energy, continuous learning philosophy and collaborative work ethic.</p>
+                                                                              <p style="font-size: 15px; text-align:justify; line-height: inherit;" class="elementor-heading-title elementor-size-default">Probot9 is a convention united with talented, restless and curious individuals passionate about expanding the borders of digital possibilities. PB9 always strive to surpass our clients’ expectations through its undying energy, continuous learning philosophy and collaborative work ethic.</p>
                                                                            </div>
                                                                         </div>
                                                                         <div class="elementor-element elementor-element-d022de1 elementor-widget elementor-widget-divider" data-id="d022de1" data-element_type="widget" data-widget_type="divider.default">
@@ -130,8 +152,12 @@
                                                             </div>
                                                          </div>
                                                       </section>
+                                                <!-----About Us start---->
+                                                
+                                                
 
-                                                   
+
+
                                                    <!-- <section class="sec-below-banner elementor-element elementor-element-629aca0d elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="629aca0d" data-element_type="section">
                                                       <div class="elementor-container elementor-column-gap-default">
                                                          <div class="elementor-row">
@@ -226,6 +252,7 @@
                                           <div class="elementor-element elementor-element-ba0eb86 elementor-column elementor-col-100 elementor-top-column" data-id="ba0eb86" data-element_type="column">
                                              <div class="elementor-column-wrap  elementor-element-populated">
                                                 <div class="elementor-widget-wrap">
+                                                    <!-- site-footer -->
                                                    <section class="elementor-element elementor-element-1d8503c elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="1d8503c" data-element_type="section">
                                                       <div class="elementor-container elementor-column-gap-default">
                                                          <div class="elementor-row">
@@ -242,12 +269,13 @@
                                                                      </div>
                                                                      <div class="elementor-element elementor-element-21f2a7f elementor-widget elementor-widget-heading" data-id="21f2a7f" data-element_type="widget" data-widget_type="heading.default">
                                                                         <div class="elementor-widget-container">
-                                                                           <h2 class="elementor-heading-title elementor-size-default">Services.</h2>
+                                                                           <!------>
+                                                                           <h2 class="elementor-heading-title elementor-size-default"><a href="services.php">Services.</a></h2>
                                                                         </div>
                                                                      </div>
                                                                      <div class="elementor-element elementor-element-c4adefd elementor-widget elementor-widget-heading" data-id="c4adefd" data-element_type="widget" data-widget_type="heading.default">
                                                                         <div class="elementor-widget-container"> 
-                                                                            <p class="elementor-size-default">Best of the Ideas only matters when the execution is at par. Our services when need fully combines, it becomes best of the digital solution for any business. See what we have… </p>
+                                                                            <p style="font-size: 15px; text-align: center;"class="elementor-size-default">Best of the Ideas only matters when the execution is at par. Our services when need fully combines, it becomes best of the digital solution for any business. See what we have… </p>
                                                                         </div>
                                                                      </div>
                                                                   </div>
@@ -439,6 +467,81 @@
                                                          </div>
                                                       </div>
                                                    </section>
+<!---Ya bi hai--->
+                                                                                    <br> <br>
+<div>
+
+<h1 style="font-size: 48px; color: #feaa02">___</h1>   
+<p style="font-size: 48px; font-weight: 600; line-height: 58p; margin-top: inherit;">Featured Technologies</p>
+<br>
+<h3 style="font-size: 28px; font-weight: 600; line-height: 58p; margin-top: inherit;">Web Development</h3>
+<h1 style="font-size: 48px; color: #feaa02">___</h1>  
+<div class="center">
+ <img src="images/word press.png" alt="hosting image" hspace="30">
+ <img src="images/Elementor.png" alt="hosting image" hspace="30">
+ <img src="images/PHP.png" alt="hosting image" hspace="30">
+ <img src="images/My SQL.png" alt="hosting image" hspace="30">
+</div>
+<h1 style="font-size: 48px; color: #feaa02">___</h1>
+   
+<br>
+<h3 style="font-size: 28px; font-weight: 600; line-height: 58p; margin-top: inherit;">E-Commerce</h3>
+<h1 style="font-size: 48px; color: #feaa02">___</h1>  
+<div class="center">
+ <img src="images/woocommerce.png" alt="hosting image" hspace="30">
+ <img src="images/shopify.png" alt="hosting image" hspace="30">
+ <img src="images/Open cart.png" alt="hosting image" hspace="30">
+ <img src="images/Magento.png" alt="hosting image" hspace="30">
+</div>
+<h1 style="font-size: 48px; color: #feaa02">___</h1>
+
+<br>
+<h3 style="font-size: 28px; font-weight: 600; line-height: 58p; margin-top: inherit;">Mobile App Developmet</h3>
+<h1 style="font-size: 48px; color: #feaa02">___</h1>  
+<div class="center">
+ <img src="images/android.png" alt="hosting image" hspace="30">
+ <img src="images/flutter.png" alt="hosting image" hspace="30">
+ <img src="images/Reavt native.png" alt="hosting image" hspace="30">
+ <img src="images/swift.png" alt="hosting image" hspace="30">
+</div>
+<h1 style="font-size: 48px; color: #feaa02">___</h1>
+
+<br>
+<h3 style="font-size: 28px; font-weight: 600; line-height: 58p; margin-top: inherit;">Designing</h3>
+<h1 style="font-size: 48px; color: #feaa02">___</h1>  
+<div class="center">
+ <img src="images/Ps.png" alt="hosting image" hspace="20" width="320" height="320">
+ <img src="images/AI.png" alt="hosting image" hspace="20" width="320" height="320">
+ <img src="images/Axd.png" alt="hosting image" hspace="20" width="320" height="320">
+
+</div>
+<h1 style="font-size: 48px; color: #feaa02">___</h1>
+
+<br>
+<h1 style="font-size: 48px; color: #feaa02">___</h1>   
+<p style="font-size: 48px; font-weight: 600; line-height: 58p; margin-top: inherit;">Featured Technologies</p>
+<br>
+<div id="list">
+<ul>
+   <li>E-Commerce</li>
+   <li>Education</li>
+   <li>Real Estate</li>
+</ul>
+<ul>
+   <li>Automotive</li>
+   <li>Healthcare</li>
+   <li>Textile</li>
+</ul>
+<ul>
+   <li>Utilities</li>
+   <li>Food and Restaurant</li>
+   <li>Transportation</li>
+</ul>
+</div>
+<h1 style="font-size: 48px; color: #feaa02">___</h1>
+</div>
+
+<!----- Yab b hai -->
                                                 </div>
                                              </div>
                                           </div>
@@ -560,6 +663,8 @@
                                        </div>
                                     </div>
                                  </section>
+
+                                 
                                  <!--
                                  <section class="elementor-element elementor-element-74b6c2bc pr__section elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="74b6c2bc" data-element_type="section" id="pr_blog">
                                     <div class="elementor-container elementor-column-gap-default">
@@ -694,6 +799,9 @@
                </div>
             </div>
          </div>
+
+ <!-- END LOGO -->
+
 
           <?php include('widgets/side-btns.php')?> 
          <!-- site-footer -->

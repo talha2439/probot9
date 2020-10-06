@@ -13,7 +13,7 @@
                                              <div class="elementor-element elementor-element-523c7d3 elementor-widget elementor-widget-heading" data-id="523c7d3" data-element_type="widget" data-widget_type="heading.default">
                                                 <div class="elementor-widget-container">
 <!--                                                   <h2 class="elementor-heading-title elementor-size-default"><a href="#">DEMO.</a></h2>-->
-                                                   <a href="home.php"><img src="images/header_logo.png" /></a>
+                                                   <a href="index.php"><img src="images/header_logo.png" /></a>
                                                 </div>
                                              </div>
                                           </div>
@@ -27,7 +27,7 @@
                                                   <div class="pr-primary-navigation pr_nav_anime_br">
                                                      <nav itemtype="http://schema.org/SiteNavigationElement" itemscope="itemscope" class="pr-nav-primary" aria-label="Elementor Menu">
                                                         <ul data-uk-scrollspy-nav="closest: li; scroll: false" class="pr-main-menu" id="menu-onepage-menu">
-                                                           <li id="menu-item-434" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-434"><a href="home.php">Home</a></li>
+                                                           <li id="menu-item-434" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-434"><a href="index.php">Home</a></li>
                                                            <li id="menu-item-43" class="dropbtn2 menu-item menu-item-type-custom menu-item-object-custom menu-item-43">  
                                                             <a  href="services.php" >Services</a>  
                                                             <!-- <ul class="dropdown-content2">
@@ -45,7 +45,7 @@
                                                             "><a href="#">Animations</a></li>
                                                             </ul> -->
                                                            </li>   
-                                                           <li id="menu-item-44" class="dropbtn1 menu-item menu-item-type-custom menu-item-object-custom menu-item-44"><a href="Hosting.php">Hosting</a>
+                                                           <li id="menu-item-44" class="dropbtn1 menu-item menu-item-type-custom menu-item-object-custom menu-item-44"><a href="hosting.php">Hosting</a>
                                                            <!-- <ul class="dropdown-content1">
                                                                 <li style="
                                                                   text-align: left;

@@ -109,6 +109,8 @@
                                                                                  <div class="pr-contact-form-container">
                                                                                     <div role="form" class="wpcf7" id="wpcf7-f6-o1" lang="en-US" dir="ltr">
                                                                                        <div class="screen-reader-response" role="alert" aria-live="polite"></div>
+                                                                                       <!------FORM ---->
+                                                                                       <!-- <form action="#" method="post" class="wpcf7-form init" novalidate="novalidate"> -->
                                                                                        <form action="#" method="post" class="wpcf7-form init" novalidate="novalidate">
                                                                                           <div style="display: none;">
                                                                                              <input type="hidden" name="_wpcf7" value="6" />

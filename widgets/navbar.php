@@ -8,7 +8,7 @@
                <li id="menu-item-44" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-44"><a href="#pr_works">Works</a></li>
                <li id="menu-item-45" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-45"><a href="#pr_about">About</a></li>
                <li id="menu-item-46" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-46"><a href="#pr_client">Client</a></li>
-               <li id="menu-item-47" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-47"><a href="#pr_blog">Blog</a></li>
+               <!-- <li id="menu-item-47" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-47"><a href="#pr_blog">Blog</a></li> -->
                <li id="menu-item-48" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-48"><a href="#pr_contact">Contact</a></li>
             </ul>
          </nav>

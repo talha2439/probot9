@@ -63,8 +63,8 @@
                                                           </li> 
                                                            <!-- <li id="menu-item-45" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-45"><a href="#pr_about">Blog</a></li> -->
                                                            <li id="menu-item-46" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-46"><a href="#pr_client">About</a></li>
-<!--                                                           <li id="menu-item-47" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-47"><a href="#pr_blog">Blog</a></li>-->
-                                                           <li id="menu-item-48" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-48"><a data-uk-toggle="target: #pr-modal-section-74cfe66">Contact</a></li>
+<!--                                                           <li id="menu-item-47" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-47"><a href="#pr_blog"<<a data-uk-toggle="target: #pr-modal-section-74cfe66">>>Blog</a></li>-->
+                                                           <li id="menu-item-48" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-48"><a href="contact.php">Contact</a></li>
                                                         </ul>
                                                      </nav>
                                                   </div>
@@ -147,7 +147,7 @@
                                                          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-45"><a href="#pr_about">Blog</a></li>
                                                          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-46"><a href="#pr_client">About</a></li>
 <!--                                                         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-47"><a href="#pr_blog">Blog</a></li>-->
-                                                         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-48"><a data-uk-toggle="target: #pr-modal-section-74cfe66">Contact</a></li>
+                                                         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-48"><a href="contact.php">Contact</a></li>
                                                       </ul>
                                                    </nav>
                                                 </div>
@@ -220,8 +220,8 @@
                      </li>
                      <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-45"><a href="#pr_about">Blog</a></li>
                      <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-46"><a href="#pr_client">About</a></li>
-<!--                     <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-47"><a href="#pr_blog">Blog</a></li>-->
-                     <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-48"><a data-uk-toggle="target: #pr-modal-section-74cfe66">Contact</a></li>
+<!--                     <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-47"><a href="#pr_blog"<<a data-uk-toggle="target: #pr-modal-section-74cfe66">>>Blog</a></li>-->
+                     <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-48"><a href="conta.php">Contact</a></li>
                   </ul>
                </nav>
             </div>

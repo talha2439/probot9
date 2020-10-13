@@ -185,10 +185,10 @@
                                     <a href="#"  >
                                        <div class="pr-infobox">
                                           <div class="infobox-content">
-                                             <h3 class="title">Karachi.</h3>
-                                             <p>+92 318 2333845</p>
-                                             <p>+92 213-4981712</p>
-                                             <p>Off #507, 5th floor, RBS Mall, Main Universty Road, Karachi.</p>
+                                             <h3 style="text-align:center;"class="title">Karachi.</h3>
+                                             <p style="text-align:left; margin-left: 330px;">+92 318 2333845</p>
+                                             <p style="text-align:left; margin-left: 330px;">+92 213-4981712</p>
+                                             <p style="text-align:left; margin-left: 200px;">Off #507, 5th floor, RBS Mall, Main Universty Road, Karachi.</p>
                                           </div>
                                        </div>
                                     </a>

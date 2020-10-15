@@ -5,7 +5,7 @@
    <meta charset="UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1">
    <title>Probot9</title>
-   <link rel="shortcut icon" type="image/jpg" href=”images/favicon.png”/>
+   <link rel="shortcut icon" type="image/png" href=”images/favicon.png”/>
    <link rel='stylesheet' href='css/uikit.min8a54.css' type='text/css' />
    <link rel='stylesheet' id='elementor-frontend-css' href='css/custom-frontend.min.css' type='text/css' media='all' />
    <link rel='stylesheet' id='pr-style-css' href='css/pr-style.css' type='text/css' media='all' />

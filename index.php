@@ -19,17 +19,17 @@
 
    <script type='text/javascript' src='js/jquery4a5f.js' id='jquery-js'></script>
 
-   <style>
-      .center {
+   <!-- /* <style>
+       .center {
 
          display: inline;
          left: 100%;
          top: 50%;
          padding: 35px;
          margin: 40px 40px 40px 40px;
-      }
+      } 
 
-      #list {
+      /* #list {
          column-count: 3;
          column-fill: balance;
       }
@@ -39,8 +39,8 @@
          display: block;
          font-size: 20px;
          font-weight: bold;
-      }
-   </style>
+      } 
+   </style>-->
 
 </head>
 
@@ -480,7 +480,7 @@
                                                    <br>
                                                    <h3 style="font-size: 28px; font-weight: 600; line-height: 58p; margin-top: inherit;">Web Development</h3>
                                                    <!-- <h1 style="font-size: 48px; color: #feaa02">___</h1> -->
-                                                   <div class="center">
+                                                   <div class="container-fluid">
                                                    <div class="row">
                                                    <div class="col-6 col-md-3"><img src="images/word press.png" alt="hosting image" hspace="30"></div>
                                                    <div class="col-6 col-md-3"><img src="images/Elementor.png" alt="hosting image" hspace="30"></div>
@@ -499,7 +499,7 @@
                                                    <br>
                                                    <h3 style="font-size: 28px; font-weight: 600; line-height: 58p; margin-top: inherit;">E-Commerce</h3>
                                                    <!-- <h1 style="font-size: 48px; color: #feaa02">___</h1> -->
-                                                   <div class="center">
+                                                   <div class="container-fluid">
                                                    <div class="row">
                                                    <div class="col-6 col-md-3"><img src="images/woocommerce.png" alt="hosting image" hspace="30"></div>
                                                    <div class="col-6 col-md-3"><img src="images/shopify.png" alt="hosting image" hspace="30"></div>
@@ -513,7 +513,7 @@
                                                    <br>
                                                    <h3 style="font-size: 28px; font-weight: 600; line-height: 58p; margin-top: inherit;">Mobile App Developmet</h3>
                                                    <!-- <h1 style="font-size: 48px; color: #feaa02">___</h1> -->
-                                                   <div class="center">
+                                                   <div class="container-fluid">
                                                    <div class="row">
                                                    <div class="col-6 col-md-3"><img src="images/android.png" alt="hosting image" hspace="30"></div>
                                                    <div class="col-6 col-md-3"><img src="images/flutter.png" alt="hosting image" hspace="30"></div>
@@ -529,7 +529,7 @@
                                                    <!-- <h1 style="font-size: 48px; color: #feaa02">___</h1> -->
 
                                                    
-                                                   <div class="center">
+                                                   <div class="container-fluid">
                                                    <div class="row">
                                                    <div class="col-6 col-md-4"><img src="images/a illustrator.png" alt="illustrator image" hspace="20" width="320" height="320"></div>
                                                    <div class="col-6 col-md-4"><img src="images/a photoshop.png" alt="photoshop image" hspace="20" width="320" height="320"></div>
@@ -542,23 +542,32 @@
                                                    <!-- <h1 style="font-size: 48px; color: #feaa02">___</h1> -->
                                                    <p style="font-size: 48px; font-weight: 600; line-height: 58p; margin-top: inherit;">Featured Technologies</p>
                                                    <br>
-                                                   <div id="list">
-                                                      <ul>
-                                                         <li>E-Commerce</li>
-                                                         <li>Education</li>
-                                                         <li>Real Estate</li>
-                                                      </ul>
-                                                      <ul>
-                                                         <li>Automotive</li>
-                                                         <li>Healthcare</li>
-                                                         <li>Textile</li>
-                                                      </ul>
-                                                      <ul>
-                                                         <li>Utilities</li>
-                                                         <li>Food and Restaurant</li>
-                                                         <li>Transportation</li>
-                                                      </ul>
+                                                   <div class="container-fluid">
+                                                      <div class="row">
+                                                         <div class="col-sm-4">
+                                                            <ul>
+                                                               <li>E-Commerce</li>
+                                                               <li>Education</li>
+                                                               <li>Real Estate</li>
+                                                            </ul>
+                                                         </div>
+                                                         <div class="col-sm-4">
+                                                            <ul>
+                                                               <li>Automotive</li>
+                                                               <li>Healthcare</li>
+                                                               <li>Textile</li>
+                                                            </ul>
+                                                         </div>
+                                                         <div class="col-sm-4">
+                                                            <ul>
+                                                               <li>Utilities</li>
+                                                               <li>Food and Restaurant</li>
+                                                               <li>Transportation</li>
+                                                            </ul>
+                                                         </div>
+                                                      </div>
                                                    </div>
+                                       
                                                    <h1 style="font-size: 48px; color: #feaa02">___</h1>
                                                 </div>
 

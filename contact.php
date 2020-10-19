@@ -5,7 +5,7 @@
    <meta charset="UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1">
    <title>Probot9</title>
-   <link rel="shortcut icon" type="image/png" href=”images/favicon.png”/>
+   <!-- <link rel="shortcut icon" type="image/png" href=”images/favicon.png”/> -->
    <link rel='stylesheet' href='css/uikit.min8a54.css' type='text/css' />
    <link rel='stylesheet' id='elementor-frontend-css' href='css/custom-frontend.min.css' type='text/css' media='all' />
    <link rel='stylesheet' id='pr-style-css' href='css/pr-style.css' type='text/css' media='all' />
@@ -15,7 +15,7 @@
    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
    <script type='text/javascript' src='js/jquery4a5f.js' id='jquery-js'></script>
    <!-- <link rel="stylesheet" href="css/cp-stylesheet.css"> -->
-   <style>
+    <style>
       /* .center {
 position:inherit;
 display: inline;
@@ -24,18 +24,23 @@ margin-left: 45px;
 top: 50%;
 } */
 body {font-family: Arial, Helvetica, sans-serif;}
-* {box-sizing: border-box;}
+/* * {box-sizing: border-box;} */
 
 input[type=text], select, textarea {
   width: 100%;
   padding: 12px;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  box-sizing: border-box;
+  /* border-bottom-style: solid; */
+   /* border:1px solid; */
+   border-bottom-color: black;
+   /* border-radius: 4px; 
+  box-sizing: border-box; */
   margin-top: 6px;
   margin-bottom: 16px;
   resize: vertical;
+  /* border-width:1px;  */
+  /* border-style:outset; */
 }
+
 
 input[type=send] {
    background-color: orange; 
@@ -153,13 +158,17 @@ padding-left: 15%;
 
                                  <br><br>
                                  <div class="container">
-                                    <form action="MAILTO:farazbiskhan@gmail.com" method="post" enctype="text/plain">
+                                    <form action="mail.php" method="post" enctype="text/plain">
                                        <!-- <form action="/action_page.php"> -->
+
                                        <label for="fname">YOUR NAME</label>
                                        <input type="text" id="fname" name="firstname" placeholder="Your name.">
 
                                        <label for="Email">YOUR EMAIL</label>
                                        <input type="text" id="email" name="email" placeholder="Your email id">
+
+                                       <label for="Contact No">YOUR CONTACT NO#</label>
+                                       <input type="text" id="contact no" name="phone" placeholder="Your phone no">
 
                                        <!-- <label for="lname">SUBJECT</label>
                                        <input type="text" id="lname" name="lastname" placeholder="Your subject"> -->
@@ -179,10 +188,6 @@ padding-left: 15%;
                                           <option value="cloud hosting">Cloud Hosting</option>
                                           <option value="2d/3d animation">2d / 3d Animations</option>
                                           <option value="video production">Video production</option>
-                                          
-                                          
-
-                                          
                                        </select>
 
                                        <label for="budget">BUDGET</label>

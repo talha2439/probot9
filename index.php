@@ -481,43 +481,60 @@
                                                    <h3 style="font-size: 28px; font-weight: 600; line-height: 58p; margin-top: inherit;">Web Development</h3>
                                                    <!-- <h1 style="font-size: 48px; color: #feaa02">___</h1> -->
                                                    <div class="center">
+                                                   <div class="row">
+                                                   <div class="col-6 col-md-3"><img src="images/word press.png" alt="hosting image" hspace="30"></div>
+                                                   <div class="col-6 col-md-3"><img src="images/Elementor.png" alt="hosting image" hspace="30"></div>
+                                                   <div class="col-6 col-md-3"><img src="images/PHP.png" alt="hosting image" hspace="30"></div>
+                                                   <div class="col-6 col-md-3"><img src="images/My SQL.png" alt="hosting image" hspace="30"></div>
+                                                   </div>
+                                                   </div>
+                                                   <!-- <div class="center">
                                                       <img src="images/word press.png" alt="hosting image" hspace="30">
                                                       <img src="images/Elementor.png" alt="hosting image" hspace="30">
                                                       <img src="images/PHP.png" alt="hosting image" hspace="30">
                                                       <img src="images/My SQL.png" alt="hosting image" hspace="30">
-                                                   </div>
+                                                   </div> -->
                                                    <h1 style="font-size: 48px; color: #feaa02">___</h1>
 
                                                    <br>
                                                    <h3 style="font-size: 28px; font-weight: 600; line-height: 58p; margin-top: inherit;">E-Commerce</h3>
                                                    <!-- <h1 style="font-size: 48px; color: #feaa02">___</h1> -->
                                                    <div class="center">
-                                                      <img src="images/woocommerce.png" alt="hosting image" hspace="30">
-                                                      <img src="images/shopify.png" alt="hosting image" hspace="30">
-                                                      <img src="images/Open cart.png" alt="hosting image" hspace="30">
-                                                      <img src="images/Magento.png" alt="hosting image" hspace="30">
+                                                   <div class="row">
+                                                   <div class="col-6 col-md-3"><img src="images/woocommerce.png" alt="hosting image" hspace="30"></div>
+                                                   <div class="col-6 col-md-3"><img src="images/shopify.png" alt="hosting image" hspace="30"></div>
+                                                   <div class="col-6 col-md-3"><img src="images/Open cart.png" alt="hosting image" hspace="30"></div>
+                                                   <div class="col-6 col-md-3"><img src="images/Magento.png" alt="hosting image" hspace="30"></div>
                                                    </div>
+                                                   </div>
+                                             
                                                    <h1 style="font-size: 48px; color: #feaa02">___</h1>
 
                                                    <br>
                                                    <h3 style="font-size: 28px; font-weight: 600; line-height: 58p; margin-top: inherit;">Mobile App Developmet</h3>
                                                    <!-- <h1 style="font-size: 48px; color: #feaa02">___</h1> -->
                                                    <div class="center">
-                                                      <img src="images/android.png" alt="hosting image" hspace="30">
-                                                      <img src="images/flutter.png" alt="hosting image" hspace="30">
-                                                      <img src="images/Reavt native.png" alt="hosting image" hspace="30">
-                                                      <img src="images/swift.png" alt="hosting image" hspace="30">
+                                                   <div class="row">
+                                                   <div class="col-6 col-md-3"><img src="images/android.png" alt="hosting image" hspace="30"></div>
+                                                   <div class="col-6 col-md-3"><img src="images/flutter.png" alt="hosting image" hspace="30"></div>
+                                                   <div class="col-6 col-md-3"><img src="images/Reavt native.png" alt="hosting image" hspace="30"></div>
+                                                   <div class="col-6 col-md-3"><img src="images/swift.png" alt="hosting image" hspace="30"></div>
                                                    </div>
+                                                   </div>
+                                                
                                                    <h1 style="font-size: 48px; color: #feaa02">___</h1>
 
                                                    <br>
                                                    <h3 style="font-size: 28px; font-weight: 600; line-height: 58p; margin-top: inherit;">Designing</h3>
                                                    <!-- <h1 style="font-size: 48px; color: #feaa02">___</h1> -->
-                                                   <div class="center">
-                                                      <img src="images/Ps.png" alt="hosting image" hspace="20" width="320" height="320">
-                                                      <img src="images/AI.png" alt="hosting image" hspace="20" width="320" height="320">
-                                                      <img src="images/Axd.png" alt="hosting image" hspace="20" width="320" height="320">
 
+                                                   
+                                                   <div class="center">
+                                                   <div class="row">
+                                                   <div class="col-6 col-md-4"><img src="images/a illustrator.png" alt="illustrator image" hspace="20" width="320" height="320"></div>
+                                                   <div class="col-6 col-md-4"><img src="images/a photoshop.png" alt="photoshop image" hspace="20" width="320" height="320"></div>
+                                                   <div class="col-6 col-md-4"><img src="images/a XD.png" alt="xd image" hspace="20" width="320" height="320"></div>
+                                                   </div>
                                                    </div>
                                                    <h1 style="font-size: 48px; color: #feaa02">___</h1>
 

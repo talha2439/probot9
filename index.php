@@ -12,11 +12,7 @@
    <link rel='stylesheet' id='pixe-main-style-css' href='css/style5156.css' type='text/css' media='all' />
    <link rel='stylesheet' id='elementor-post-326-css' href='css/post-326e189.css' type='text/css' media='all' />
    <link rel='stylesheet' id='elementor-post-326-css' href='https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css' type='text/css' media='all' />
-
-
    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
-
-
    <script type='text/javascript' src='js/jquery4a5f.js' id='jquery-js'></script>
 
    <!-- /* <style>
@@ -540,7 +536,7 @@
 
                                                    <br>
                                                    <!-- <h1 style="font-size: 48px; color: #feaa02">___</h1> -->
-                                                   <p style="font-size: 48px; font-weight: 600; line-height: 58p; margin-top: inherit;">Featured Technologies</p>
+                                                   <p style="font-size: 48px; font-weight: 600; line-height: 58p; margin-top: inherit;">Industries We Serve</p>
                                                    <br>
                                                    <div class="container-fluid">
                                                       <div class="row">

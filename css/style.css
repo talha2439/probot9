@@ -1,0 +1,25 @@
+/* *,*:after,*:before{
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+} */
+/* body{
+	font-family: arial;
+	font-size: 16px;
+	margin: 0;
+	background: #02bfc5;
+	min-height: 100vh;
+} */
+.multi_select_box{
+	width: 1060px;
+	/* margin: 10px; */
+}
+.multi_select_box select{
+	width: 100%;
+}
+.multi_select_box button{
+	background-color:orange;
+	color: #fff !important;
+	padding: 15px;
+}

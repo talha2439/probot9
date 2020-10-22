@@ -14,6 +14,9 @@
    <link rel='stylesheet' id='elementor-post-326-css' href='https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css' type='text/css' media='all' />
    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
    <script type='text/javascript' src='js/jquery4a5f.js' id='jquery-js'></script>
+   <link rel="stylesheet" type="text/css" href="css/style.css">
+   <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/css/bootstrap.css">
+   <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.13.18/css/bootstrap-select.min.css">
    <!-- <link rel="stylesheet" href="css/cp-stylesheet.css"> -->
     <style>
       /* .center {
@@ -172,8 +175,39 @@ padding-left: 15%;
 
                                        <!-- <label for="lname">SUBJECT</label>
                                        <input type="text" id="lname" name="lastname" placeholder="Your subject"> -->
-                                       
+                                       <div class="multi_select_box">
                                        <label for="subject">SUBJECT</label>
+                                       <select class="multi_select w-100" multiple data-selected-text-formate="count > 3" id="subject" name="subject">
+                                          <!-- <option style="font-size: 14px;" value="Select subject">Select Your Subject</option> -->
+                                          <option style="font-size: 14px;" value="web desingning">Website designing</option>
+                                          <option style="font-size: 14px;" value="web app">Web Apps</option>
+                                          <option style="font-size: 14px;" value="mobile app">Mobile Apps</option>
+                                          <option style="font-size: 14px;" value="ecommmerce solution">Ecommerce Solutions</option>
+                                          <option style="font-size: 14px;" value="Digital media marketing">Digital Media Marketing</option>
+                                          <option style="font-size: 14px;" value="logo design">Logo Designing</option>
+                                          <option style="font-size: 14px;" value="graphic design">Graphic Designing</option>
+                                          <option style="font-size: 14px;" value="Corporate Profile">Corporate Profile</option>
+                                          <option style="font-size: 14px;" value="Web hosting">Web Hosting</option>
+                                          <option style="font-size: 14px;" value="cloud hosting">Cloud Hosting</option>
+                                          <option style="font-size: 14px;" value="2d/3d animation">2d / 3d Animations</option>
+                                          <option style="font-size: 14px;" value="video production">Video production</option>
+                                       </select>
+                                       </div>
+                                       <br>
+
+                                       <div class="multi_select_box">
+                                       <label for="budget">BUDGET</label>
+                                       <select class="multi_select w-100" multiple data-selected-text-formate="count > 3" id="budget" name="budget">
+                                          <!-- <option style="font-size: 14px;" value="Select Budget">Select Budget</option> -->
+                                          <option style="font-size: 14px;" value="Low Budget">Low Budget</option>
+                                          <option style="font-size: 14px;" value="$ 1,000 - $ 2,000">$ 1,000 - $ 2,000</option>
+                                          <option style="font-size: 14px;" value="$ 1,000 - $ 2,000">$ 2,000 - $ 5,000</option>
+                                          <option style="font-size: 14px;" value="$ 1,000 - $ 2,000">$ 5,000 - $ 10,000</option>
+                                          <option style="font-size: 14px;" value="$ 1,000 - $ 2,000">$ 10,000 + </option>
+                                       </select>
+                                       </div>
+                                       <br>
+                                       <!-- <label for="subject">SUBJECT</label>
                                        <select id="subject" name="subject">
                                           <option value="Select subject">Select Your Subject</option>
                                           <option value="web desingning">Website designing</option>
@@ -198,7 +232,7 @@ padding-left: 15%;
                                           <option value="$ 1,000 - $ 2,000">$ 2,000 - $ 5,000</option>
                                           <option value="$ 1,000 - $ 2,000">$ 5,000 - $ 10,000</option>
                                           <option value="$ 1,000 - $ 2,000">$ 10,000 + </option>
-                                       </select>
+                                       </select> -->
 
                                        <label for="Your Message">YOUR MESSAGE</label>
                                        <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
@@ -831,6 +865,10 @@ padding-left: 15%;
 
       });
    </script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.0/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/js/bootstrap.bundle.js"></script>>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.13.18/js/bootstrap-select.min.js"></script></script>
+<script src="js/script.js"></script>
 </body>
 
 </html>

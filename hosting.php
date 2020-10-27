@@ -107,7 +107,7 @@
                                              <div class="elementor-widget-wrap">
                                              <div class="elementor-element elementor-element-36c93178 elementor-widget elementor-widget-heading" data-id="36c93178" data-element_type="widget" data-widget_type="heading.default">
                                                    <div class="elementor-widget-container">
-                                                      <h2 style="font-size: 48px;font-weight: bold;"> HOSTING</h2>
+                                                      <h2 style="font-size: 48px;font-weight: bold;"> PROBOT9 HOSTING</h2>
                                                    </div>
                                                 </div>
                                                 <div class="elementor-element elementor-element-337650b7 elementor-widget elementor-widget-divider" data-id="337650b7" data-element_type="widget" data-widget_type="divider.default">
@@ -133,6 +133,13 @@
                                                       <p style="text-align: justify;font-size: 18px;">Probot9 offers multiple hosting options, full managed as well as user managed. Our experts help you choose best of the hosting solution according to your requirements. Hosting just doesn’t mean storage, it has ample aspects to be covered as per requirements and to follow industry standards..</p>
                                                    </div>
                                                 </div>
+                                                <!------Button Link  ------->
+                                                
+                                                <div class="pr-button-container">
+                                                   <a href="Hosting Price.php"><button style="font-size: large; padding: 15px 32px; margin: 4px 2px; cursor: pointer;" type="button" class="btn btn-warning">Make an Enquiry!</button></a>
+                                                </div>
+
+                                                <!------Button Link  ------->
                                                 <div class="elementor-element elementor-element-d022de1 elementor-widget elementor-widget-divider" data-id="d022de1" data-element_type="widget" data-widget_type="divider.default">
                                                    <div class="elementor-widget-container">
                                                       <div class="elementor-divider">

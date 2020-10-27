@@ -49,11 +49,19 @@
                            <div class="elementor-widget-wrap">
                               <div class="elementor-element elementor-element-74cfe66 elementor-widget elementor-widget-pr-modal" data-id="74cfe66" data-element_type="widget" data-widget_type="pr-modal.default">
                                  <div class="elementor-widget-container">
-                                    <div class="pr-button-container">
+                                 <div class="pr-button-container">
+                                    <a href="contact.php"><button style="font-size: large; padding: 15px 32px; margin: 4px 2px; cursor: pointer;" type="button" class="btn btn-warning">Make an Enquiry!</button></a>
+                                       <!-- <a class="pr-button  pr-button-lg pr-button-style1-right" data-uk-toggle="target: #pr-modal-section-74cfe66">
+                                        <a href="index.php" target="_blank"><span>Make an enquiry!</span></a>  -->
+                                          <!-- <div class="pr-button-text-icon-wrapper"><span>Make an enquiry!</span></div>
+                                       </a> -->
+                                    </div>
+
+                                    <!-- <div class="pr-button-container">
                                        <a class="pr-button  pr-button-lg pr-button-style1-right" data-uk-toggle="target: #pr-modal-section-74cfe66">
                                           <div class="pr-button-text-icon-wrapper"><span>Make an enquiry!</span></div>
                                        </a>
-                                    </div>
+                                    </div> -->
                                     <div class="pr-modal-wrapper">
                                        <div id="pr-modal-section-74cfe66" data-uk-modal="" class="uk-modal uk-modal-full">
                                           <div class="uk-modal-dialog">

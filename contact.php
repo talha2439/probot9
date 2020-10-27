@@ -18,7 +18,7 @@
    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/css/bootstrap.css">
    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.13.18/css/bootstrap-select.min.css">
    <!-- <link rel="stylesheet" href="css/cp-stylesheet.css"> -->
-    <style>
+   <style>
       /* .center {
 position:inherit;
 display: inline;
@@ -26,76 +26,127 @@ left: 90%;
 margin-left: 45px;
 top: 50%;
 } */
-body {font-family: Arial, Helvetica, sans-serif;}
-/* * {box-sizing: border-box;} */
+      body {
+         font-family: Arial, Helvetica, sans-serif;
+      }
 
-input[type=text], select, textarea {
-  width: 100%;
-  padding: 12px;
-  /* border-bottom-style: solid; */
-   /* border:1px solid; */
-   border-bottom-color: black;
-   /* border-radius: 4px; 
+      /* * {box-sizing: border-box;} */
+
+      input[type=text],
+      select,
+      textarea {
+         width: 100%;
+         padding: 12px;
+         /* border-bottom-style: solid; */
+         /* border:1px solid; */
+         border-bottom-color: black;
+         /* border-radius: 4px; 
   box-sizing: border-box; */
-  margin-top: 6px;
-  margin-bottom: 16px;
-  resize: vertical;
-  /* border-width:1px;  */
-  /* border-style:outset; */
-}
+         margin-top: 6px;
+         margin-bottom: 16px;
+         resize: vertical;
+         /* border-width:1px;  */
+         /* border-style:outset; */
+      }
 
 
-input[type=send] {
-   background-color: orange; 
-  color: white;
-  padding: 12px 20px;
-  border: none;
-  border-radius: 4px;
-  cursor: pointer;
-  text-align: center;
-  font-size: 18px;
-}
+      input[type=send] {
+         background-color: orange;
+         color: white;
+         padding: 12px 20px;
+         border: none;
+         border-radius: 4px;
+         cursor: pointer;
+         text-align: center;
+         font-size: 18px;
+      }
 
-input[type=send]:hover {
-  background-color: #45a049;
-}
+      input[type=send]:hover {
+         background-color: #45a049;
+      }
 
-.container {
-  border-radius: 5px;
-  /* background-color: #f2f2f2; */
-  padding: 40px;
-}
-h1{
-    font-size: 45px;
-    font-weight: 900;
-    font-family:Arial, Helvetica, sans-serif;
-    text-align: left;
-   padding-left: 15%;
-}
-.center {
+      .container {
+         border-radius: 5px;
+         /* background-color: #f2f2f2; */
+         padding: 40px;
+         font-size: 18px !important;
+      }
+
+      h1 {
+         font-size: 45px;
+         font-weight: 900;
+         font-family: Arial, Helvetica, sans-serif;
+         text-align: left;
+         padding-left: 15%;
+      }
+
+      .center {
          position: relative;
          display: inline;
          /* left: 100%; */
          /* margin-left: 35%; */
          padding-left: 30%;
-         top: 50%; 
-      }@media only screen and (max-width: 1000px) {.center {
-    position: relative;
-         display: inline;
-         /* left: 100%; */
-         /* margin-left: 35%; */
-         padding-left: 15px;
-         top: 50%; 
-  } 
+         top: 50%;
+      }
 
-}
-p{
-  text-align: left;
-padding-left: 15%;
-}
+      @media only screen and (max-width: 1000px) {
+         .center {
+            position: relative;
+            display: inline;
+            /* left: 100%; */
+            /* margin-left: 35%; */
+            padding-left: 15px;
+            top: 50%;
+         }
+
+      }
+
+      p {
+         text-align: left;
+         padding-left: 15%;
+         font-size: 14px;
+      }
+
+
+      /*css for alert messages*/
+      .alert-success{
+   display: flex;
+  justify-content: center;
+   color: black;
+   margin-top: 50px;
+   /* margin-right: 45px; */
+	z-index: 1;
+	background: transparent;
+	font-size: 38px;
+	padding: 20px 40px;
+	min-width: 600px;
+	/* position: center; */
+	right: 0;
+	top: 10px;
+	/* border-left: 8px solid #3AD66E; */
+	border-radius: 4px;
+  }
+  
+  .alert-error{
+   display: flex;
+  justify-content: center;
+   color: black;
+   margin-top: 50px;
+   /* margin-right: 45px; */
+	z-index: 1;
+	background: transparent;
+	font-size: 38px;
+	padding: 20px 40px;
+	min-width: 600px;
+	/* position: center; */
+	right: 0;
+	top: 10px;
+	/* border-left: 8px solid #3AD66E; */
+	border-radius: 4px;
+  }
 
    </style>
-       
+
 </head>
 
 <body>
@@ -120,10 +171,7 @@ padding-left: 15%;
                      <div data-elementor-type="wp-post" data-elementor-id="326" class="elementor elementor-326" data-elementor-settings="[]">
                         <div class="elementor-inner">
                            <div class="elementor-section-wrap">
-
                               <section class="elementor-element elementor-element-3b3840fc  elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="3b3840fc" data-element_type="section" id="pr_client" style="padding-top: 25px">
-
-
                                  <div class="elementor-container elementor-column-gap-default">
                                     <div class="elementor-row">
                                        <div class="elementor-element elementor-element-469c992a elementor-column elementor-col-50 elementor-top-column" data-id="469c992a" data-element_type="column">
@@ -149,15 +197,21 @@ padding-left: 15%;
                                     <img src="images/contact.png" alt="contact" hspace="30">
                                  </div>
 
-                                 
+                                  <!--alert messages start-->
+                                  <?php echo $alert; ?>
+                                 <!--alert messages end-->
+
+                                 <br><br>
+
+
                                  <h1>Let's Talk? </h1>
                                  <p>+92 318 2333845 <br> <br> +92 213-4981712</p>
 
                                  <h1>Or Visit</h1>
                                  <p>Off #507, 5th floor, RBS Mall, Main Universty Road, Karachi.</p>
-                                 
+
                                  <h1>Or Fill the Form</h1>
-                               
+
 
                                  <br><br>
                                  <div class="container">
@@ -176,36 +230,34 @@ padding-left: 15%;
                                        <!-- <label for="lname">SUBJECT</label>
                                        <input type="text" id="lname" name="lastname" placeholder="Your subject"> -->
                                        <div class="multi_select_box">
-                                       <label for="subject">SUBJECT</label>
-                                       <select class="multi_select w-100" multiple data-selected-text-formate="count > 3" id="subject" name="subject">
-                                          <!-- <option style="font-size: 14px;" value="Select subject">Select Your Subject</option> -->
-                                          <option style="font-size: 14px;" value="web desingning">Website designing</option>
-                                          <option style="font-size: 14px;" value="web app">Web Apps</option>
-                                          <option style="font-size: 14px;" value="mobile app">Mobile Apps</option>
-                                          <option style="font-size: 14px;" value="ecommmerce solution">Ecommerce Solutions</option>
-                                          <option style="font-size: 14px;" value="Digital media marketing">Digital Media Marketing</option>
-                                          <option style="font-size: 14px;" value="logo design">Logo Designing</option>
-                                          <option style="font-size: 14px;" value="graphic design">Graphic Designing</option>
-                                          <option style="font-size: 14px;" value="Corporate Profile">Corporate Profile</option>
-                                          <option style="font-size: 14px;" value="Web hosting">Web Hosting</option>
-                                          <option style="font-size: 14px;" value="cloud hosting">Cloud Hosting</option>
-                                          <option style="font-size: 14px;" value="2d/3d animation">2d / 3d Animations</option>
-                                          <option style="font-size: 14px;" value="video production">Video production</option>
-                                       </select>
+                                          <label for="subject">SUBJECT</label>
+                                          <select class="multi_select w-100" multiple data-selected-text-formate="count > 3" id="subject" name="subject">
+                                             <!-- <option style="font-size: 14px;" value="Select subject">Select Your Subject</option> -->
+                                             <option style="font-size: 14px;" value="web desingning">Website designing</option>
+                                             <option style="font-size: 14px;" value="web app">Web Apps</option>
+                                             <option style="font-size: 14px;" value="mobile app">Mobile Apps</option>
+                                             <option style="font-size: 14px;" value="ecommmerce solution">Ecommerce Solutions</option>
+                                             <option style="font-size: 14px;" value="Digital media marketing">Digital Media Marketing</option>
+                                             <option style="font-size: 14px;" value="logo design">Logo Designing</option>
+                                             <option style="font-size: 14px;" value="graphic design">Graphic Designing</option>
+                                             <option style="font-size: 14px;" value="Corporate Profile">Corporate Profile</option>
+                                             <option style="font-size: 14px;" value="Web hosting">Web Hosting</option>
+                                             <option style="font-size: 14px;" value="cloud hosting">Cloud Hosting</option>
+                                             <option style="font-size: 14px;" value="2d/3d animation">2d / 3d Animations</option>
+                                             <option style="font-size: 14px;" value="video production">Video production</option>
+                                          </select>
                                        </div>
                                        <br>
 
-                                       <div class="multi_select_box">
                                        <label for="budget">BUDGET</label>
-                                       <select class="multi_select w-100" multiple data-selected-text-formate="count > 3" id="budget" name="budget">
-                                          <!-- <option style="font-size: 14px;" value="Select Budget">Select Budget</option> -->
-                                          <option style="font-size: 14px;" value="Low Budget">Low Budget</option>
-                                          <option style="font-size: 14px;" value="$ 1,000 - $ 2,000">$ 1,000 - $ 2,000</option>
-                                          <option style="font-size: 14px;" value="$ 1,000 - $ 2,000">$ 2,000 - $ 5,000</option>
-                                          <option style="font-size: 14px;" value="$ 1,000 - $ 2,000">$ 5,000 - $ 10,000</option>
-                                          <option style="font-size: 14px;" value="$ 1,000 - $ 2,000">$ 10,000 + </option>
+                                       <select id="budget" name="budget">
+                                          <option value="Select Budget">Select Budget</option>
+                                          <option value="Low Budget">Low Budget</option>
+                                          <option value="$ 1,000 - $ 2,000">$ 1,000 - $ 2,000</option>
+                                          <option value="$ 1,000 - $ 2,000">$ 2,000 - $ 5,000</option>
+                                          <option value="$ 1,000 - $ 2,000">$ 5,000 - $ 10,000</option>
+                                          <option value="$ 1,000 - $ 2,000">$ 10,000 + </option>
                                        </select>
-                                       </div>
                                        <br>
                                        <!-- <label for="subject">SUBJECT</label>
                                        <select id="subject" name="subject">
@@ -777,16 +829,16 @@ padding-left: 15%;
 
 
       <!-- <div class="modal fade" id="myModal" role="dialog"> -->
-         <!-- <div class="modal-dialog"> -->
-            <!-- Modal content-->
-            <!-- <div class="modal-content">
+      <!-- <div class="modal-dialog"> -->
+      <!-- Modal content-->
+      <!-- <div class="modal-content">
                <div class="modal-body" id="yt-player">
                   <iframe id="video" width="600" height="315" src="https://www.youtube.com/embed/jWa-mna5J6A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                </div>
             </div>
          </div> -->
-         
-      </div>
+
+   </div>
    </div>
    <link rel='stylesheet' id='elementor-post-37-css' href='css/post-376e0b.css' type='text/css' media='all' />
    <link rel='stylesheet' id='elementor-post-104-css' href='css/post-1046e0b.css' type='text/css' media='all' />
@@ -865,10 +917,19 @@ padding-left: 15%;
 
       });
    </script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.0/jquery.min.js"></script>
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/js/bootstrap.bundle.js"></script>>
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.13.18/js/bootstrap-select.min.js"></script></script>
-<script src="js/script.js"></script>
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.0/jquery.min.js"></script>
+   <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/js/bootstrap.bundle.js"></script>>
+   <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.13.18/js/bootstrap-select.min.js"></script>
+   </script>
+   <script src="js/script.js"></script>
+
+   <script type="text/javascript">
+    if(window.history.replaceState){
+      window.history.replaceState(null, null, window.location.href);
+    }
+    </script>
+
+
 </body>
 
 </html>

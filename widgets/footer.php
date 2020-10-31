@@ -11,11 +11,11 @@
                               <div class="elementor-element elementor-element-baae923 elementor-shape-circle elementor-widget elementor-widget-social-icons" data-id="baae923" data-element_type="widget" data-widget_type="social-icons.default">
                                  <div class="elementor-widget-container">
                                     <div class="elementor-social-icons-wrapper">
-                                       <a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-animation-float elementor-repeater-item-dcf3cb4" target="_blank">
+                                       <a href="https://www.facebook.com/vrprobot9" class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-animation-float elementor-repeater-item-dcf3cb4" target="_blank">
                                           <span class="elementor-screen-only">Facebook</span>
                                           <i class="fa fa-facebook"></i>
                                        </a>
-                                       <a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-animation-float elementor-repeater-item-e1419ba" target="_blank">
+                                       <a href="https://twitter.com/home" class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-animation-float elementor-repeater-item-e1419ba" target="_blank">
                                           <span class="elementor-screen-only">Twitter</span>
                                           <i class="fa fa-twitter"></i>
                                        </a>
@@ -23,11 +23,11 @@
                                           <span class="elementor-screen-only">Instagram</span>
                                           <i class="fa fa-instagram"></i>
                                        </a>
-                                       <a class="elementor-icon elementor-social-icon elementor-social-icon-linkedin elementor-animation-float elementor-repeater-item-9c25981" target="_blank">
+                                       <a href="https://www.linkedin.com/company/68804546/" class="elementor-icon elementor-social-icon elementor-social-icon-linkedin elementor-animation-float elementor-repeater-item-9c25981" target="_blank">
                                           <span class="elementor-screen-only">linkedin</span>
                                           <i class="fa fa-linkedin"></i>
                                        </a>
-                                       <a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-animation-float elementor-repeater-item-9c25981" target="_blank">
+                                       <a href="https://www.youtube.com/channel/UC5l3C4tK50oXJXJtV5SFgSA" class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-animation-float elementor-repeater-item-9c25981" target="_blank">
                                           <span class="elementor-screen-only">Youtube</span>
                                           <i class="fa fa-youtube"></i>
                                        </a>

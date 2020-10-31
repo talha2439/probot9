@@ -19,7 +19,9 @@
 	width: 100%;
 }
 .multi_select_box button{
-	background-color:orange;
-	color: #fff !important;
+	font-size: 24px;
+	background-color:transparent;
+	/* color: #fff !important; */
+	color: black !important;
 	padding: 15px;
 }

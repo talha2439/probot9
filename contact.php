@@ -215,7 +215,7 @@ top: 50%;
 
                                  <br><br>
                                  <div class="container">
-                                    <form action="mail.php" method="post" enctype="text/plain">
+                                    <form action=" " method="post">
                                        <!-- <form action="/action_page.php"> -->
 
                                        <label for="fname">YOUR NAME</label>

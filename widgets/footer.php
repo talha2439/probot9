@@ -23,9 +23,13 @@
                                           <span class="elementor-screen-only">Instagram</span>
                                           <i class="fa fa-instagram"></i>
                                        </a>
-                                       <a class="elementor-icon elementor-social-icon elementor-social-icon-github elementor-animation-float elementor-repeater-item-9c25981" target="_blank">
-                                          <span class="elementor-screen-only">Github</span>
-                                          <i class="fa fa-github"></i>
+                                       <a class="elementor-icon elementor-social-icon elementor-social-icon-linkedin elementor-animation-float elementor-repeater-item-9c25981" target="_blank">
+                                          <span class="elementor-screen-only">linkedin</span>
+                                          <i class="fa fa-linkedin"></i>
+                                       </a>
+                                       <a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-animation-float elementor-repeater-item-9c25981" target="_blank">
+                                          <span class="elementor-screen-only">Youtube</span>
+                                          <i class="fa fa-youtube"></i>
                                        </a>
                                     </div>
                                  </div>

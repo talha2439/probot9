@@ -109,42 +109,41 @@ top: 50%;
 
 
       /*css for alert messages*/
-      .alert-success{
-   display: flex;
-  justify-content: center;
-   color: black;
-   margin-top: 50px;
-   /* margin-right: 45px; */
-	z-index: 1;
-	background: transparent;
-	font-size: 38px;
-	padding: 20px 40px;
-	min-width: 600px;
-	/* position: center; */
-	right: 0;
-	top: 10px;
-	/* border-left: 8px solid #3AD66E; */
-	border-radius: 4px;
-  }
-  
-  .alert-error{
-   display: flex;
-  justify-content: center;
-   color: black;
-   margin-top: 50px;
-   /* margin-right: 45px; */
-	z-index: 1;
-	background: transparent;
-	font-size: 38px;
-	padding: 20px 40px;
-	min-width: 600px;
-	/* position: center; */
-	right: 0;
-	top: 10px;
-	/* border-left: 8px solid #3AD66E; */
-	border-radius: 4px;
-  }
+      .alert-success {
+         display: flex;
+         justify-content: center;
+         color: black;
+         margin-top: 50px;
+         /* margin-right: 45px; */
+         z-index: 1;
+         background: transparent;
+         font-size: 38px;
+         padding: 20px 40px;
+         min-width: 600px;
+         /* position: center; */
+         right: 0;
+         top: 10px;
+         /* border-left: 8px solid #3AD66E; */
+         border-radius: 4px;
+      }
 
+      .alert-error {
+         display: flex;
+         justify-content: center;
+         color: black;
+         margin-top: 50px;
+         /* margin-right: 45px; */
+         z-index: 1;
+         background: transparent;
+         font-size: 38px;
+         padding: 20px 40px;
+         min-width: 600px;
+         /* position: center; */
+         right: 0;
+         top: 10px;
+         /* border-left: 8px solid #3AD66E; */
+         border-radius: 4px;
+      }
    </style>
 
 </head>
@@ -197,8 +196,8 @@ top: 50%;
                                     <img src="images/contact.png" alt="contact" hspace="30">
                                  </div>
 
-                                  <!--alert messages start-->
-                                  <?php echo $alert; ?>
+                                 <!--alert messages start-->
+                                 <?php echo $alert; ?>
                                  <!--alert messages end-->
 
                                  <br><br>
@@ -289,7 +288,7 @@ top: 50%;
                                        <label for="Your Message">YOUR MESSAGE</label>
                                        <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
 
-                                       <input type="submit" value="Submit">
+                                       <input type="submit" name="submit" value="Send">
                                        <!-- <input type="submit" value="Submit"> -->
                                     </form>
                                  </div>
@@ -924,10 +923,10 @@ top: 50%;
    <script src="js/script.js"></script>
 
    <script type="text/javascript">
-    if(window.history.replaceState){
-      window.history.replaceState(null, null, window.location.href);
-    }
-    </script>
+      if (window.history.replaceState) {
+         window.history.replaceState(null, null, window.location.href);
+      }
+   </script>
 
 
 </body>
